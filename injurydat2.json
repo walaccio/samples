@@ -1,0 +1,3002 @@
+[
+  {
+    "mst_id":738.0,
+    "mst_name":"Fabianski",
+    "news":"Fabianski has signed a one-year contract with West Ham, according to his club.",
+    "news_added":"2026-01-05T18:30:10.223348Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-14",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":25.0
+  },
+  {
+    "mst_id":420.0,
+    "mst_name":"G\u00fcndo\u011fan",
+    "news":"has joined Galatasaray permanently.",
+    "news_added":"2025-09-05T08:55:41.702765Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":525.0,
+    "mst_name":"Wood",
+    "news":"Wood (knee) is making \"steady progress\" but doesn't have a clear return date yet, manager Sean Dyche told media Thursday. \"The repair on the knee has gone well and it is just steady progress now. It is week by week and making sure it is going in the right direction, which it certainly is so far.\"",
+    "news_added":"2025-10-24T09:00:08.418318Z",
+    "mst_status":"i",
+    "mst_return":"2026-3-4",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":66.0,
+    "mst_name":"Neto",
+    "news":"Has joined Botafogo permanently.",
+    "news_added":"2025-08-11T01:25:12.553868Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":601.0,
+    "mst_name":"Foderingham",
+    "news":"has joined Aris Limassol permanently.",
+    "news_added":"2025-09-11T13:43:36.667461Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":668.0,
+    "mst_name":"Xhaka",
+    "news":"Ankle injury - Expected back 22 Feb",
+    "news_added":"2026-01-24T19:00:09.277794Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-22",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":502.0,
+    "mst_name":"Sels",
+    "news":"Groin Injury - 75% chance of playing",
+    "news_added":"2026-02-02T00:30:11.021589Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":579.0,
+    "mst_name":"Son",
+    "news":"has joined Los Angeles FC permanently.",
+    "news_added":"2025-08-11T01:22:33.649224Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":422.0,
+    "mst_name":"Kova\u010di\u0107",
+    "news":"Kovacic underwent a second surgery on his Achilles was given a three-to-four month timeline by Pep Guardiola.   \"Mentally he's strong, he accepted it [the injury] really good. Of course we're going to miss him, I guess maybe three or four months [out], I don't know - it's difficult to tell.\"",
+    "news_added":"2025-11-03T09:30:08.601064Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-28",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":625.0,
+    "mst_name":"F\u00fcllkrug",
+    "news":"has joined AC Milan on loan for the rest of the season.",
+    "news_added":"2026-01-02T18:40:36.220660Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":409.0,
+    "mst_name":"Stones",
+    "news":"Stones (thigh) is still hopeful to return soon, according to manager Pep Guardiola.",
+    "news_added":"2025-12-08T10:30:09.659145Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-14",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":480.0,
+    "mst_name":"Lascelles",
+    "news":"Lack of match fitness - 25% chance of playing",
+    "news_added":"2025-12-19T14:00:09.135296Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":25.0
+  },
+  {
+    "mst_id":678.0,
+    "mst_name":"Masuaku",
+    "news":"has joined RC Lens on loan for the rest of the season.",
+    "news_added":"2026-01-15T20:00:09.716289Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":43.0,
+    "mst_name":"Alex Moreno",
+    "news":"Has joined Girona permanently.",
+    "news_added":"2025-08-26T13:45:03.013808Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":363.0,
+    "mst_name":"Bamford",
+    "news":"has departed the club as a free agent.",
+    "news_added":"2025-09-02T12:00:32.408955Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":159.0,
+    "mst_name":"March",
+    "news":"March (knee) was back in training on Thursday but still needs some time to return, coach Fabian Hurzeler said in the press conference, according to Derren Howard from the Sussex Express. \"He's back in training, he trained yesterday with the first team. He made a great appearance, he looked quite sharp so we're all quite happy. But now it's very important that we don't immediately put pressure on him, that we don't write he's back in one week. I think this needs time, we need to go step by step and then we all know that Solly is a player from Brighton, he has a big history for this club and he can be a big player for us also this season, but let's be patient.\"",
+    "news_added":"2025-08-10T18:00:05.450301Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-14",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":604.0,
+    "mst_name":"Emerson",
+    "news":"has joined Marseille permanently.",
+    "news_added":"2025-09-02T13:30:06.113081Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":232.0,
+    "mst_name":"Tosin",
+    "news":"Adarabioyo (hamstring) is training individually, according to manager Liam Rosenior. \"Tosin was back out on the pitch today doing his individual rehab.\"",
+    "news_added":"2026-01-17T18:30:08.537346Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-10",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":735.0,
+    "mst_name":"Traor\u00e9",
+    "news":"Knee injury - Expected back 22 Feb",
+    "news_added":"2026-01-11T22:30:11.088165Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-22",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":153.0,
+    "mst_name":"Webster",
+    "news":"Webster suffered a ACL injury during pre-season training camp and is set for surgery, coach Fabian Hurzeler confirmed to the media. \"Adam suffered a knee ligament injury during training last week, and he will undergo surgery in the coming weeks. Unfortunately, it was a case of very bad luck. It's a blow to Adam, after he'd come back in great shape for the new season. It's also a blow for us, as he has been an important player for us; he is a big character and a leader within the squad. We'll work with him over the months ahead to make sure he gets the best possible care and rehabilitation to get him back to full fitness as quickly as possible. It's too early to put a timescale on his recovery period, but it's fair to say he will miss a large part of the season.\"",
+    "news_added":"2025-08-08T14:30:04.202011Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-1",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":86.0,
+    "mst_name":"Brooks",
+    "news":"Ankle injury - 50% chance of playing",
+    "news_added":"2026-01-15T19:30:09.403523Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":50.0
+  },
+  {
+    "mst_id":472.0,
+    "mst_name":"Odysseas",
+    "news":"Has joined Sevilla on loan for the rest of the season.",
+    "news_added":"2025-08-13T15:41:50.078613Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":479.0,
+    "mst_name":"Krafth",
+    "news":"Krafth (knee) is out for Thursday's Carabao Cup match against Manchester City, according to manager Eddie Howe.   \"He's a big miss for us at the moment. He is trying to come back from a knee problem. He is not feeling absolutely at his best currently. I have no definitive return day for him. We are taking it day by day, and we will see him back quickly. He has always been such a reliable performer for us.\"",
+    "news_added":"2025-11-28T19:00:08.647206Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-14",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":419.0,
+    "mst_name":"Grealish",
+    "news":"Foot injury - Expected back 01 Jun",
+    "news_added":"2026-01-21T15:00:08.892371Z",
+    "mst_status":"i",
+    "mst_return":"2026-6-1",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":571.0,
+    "mst_name":"Davies",
+    "news":"Davies has undergone another surgery on his ankle but is not expected to see an extended timetable for a return, according to Michael Pearlman of the BBC. ",
+    "news_added":"2026-01-17T18:30:08.916445Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-18",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":474.0,
+    "mst_name":"Sch\u00e4r",
+    "news":"Ankle injury - Expected back 18 Apr",
+    "news_added":"2026-01-09T17:30:12.168949Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-18",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":399.0,
+    "mst_name":"Ederson M.",
+    "news":"has joined Fenerbache permanently.",
+    "news_added":"2025-09-02T13:32:35.715838Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":54.0,
+    "mst_name":"McGinn",
+    "news":"Knee injury - Expected back 21 Mar",
+    "news_added":"2026-01-19T03:00:08.140927Z",
+    "mst_status":"i",
+    "mst_return":"2026-3-21",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":545.0,
+    "mst_name":"Roberts",
+    "news":"has joined Birmingham City permanently.",
+    "news_added":"2025-09-02T13:33:32.438579Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":570.0,
+    "mst_name":"Danso",
+    "news":"Toe Injury - 75% chance of playing",
+    "news_added":"2026-02-02T00:30:11.097727Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":617.0,
+    "mst_name":"Cornet",
+    "news":"has joined Genoa on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:21:17.687537Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":61.0,
+    "mst_name":"Dendoncker",
+    "news":"Has joined Real Oviedo permanently.",
+    "news_added":"2025-08-20T13:31:56.822248Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":495.0,
+    "mst_name":"Hayden",
+    "news":"Has departed the club as a free agent.",
+    "news_added":"2025-08-11T01:17:33.103826Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":429.0,
+    "mst_name":"Phillips",
+    "news":"has joined Sheffield United on loan for the rest of the season.",
+    "news_added":"2026-02-02T23:15:40.975573Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":264.0,
+    "mst_name":"Holding",
+    "news":"Has joined Colorado Rapids permanently.",
+    "news_added":"2025-08-11T01:12:01.613357Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":327.0,
+    "mst_name":"Andreas",
+    "news":"has joined Palmeiras permanently.",
+    "news_added":"2025-09-02T13:24:11.133813Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":48.0,
+    "mst_name":"Tielemans",
+    "news":"Ankle injury - Expected back 11 Apr",
+    "news_added":"2026-01-26T04:00:07.415161Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-11",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":89.0,
+    "mst_name":"Philip",
+    "news":"Has joined Midtjylland permanently.",
+    "news_added":"2025-08-27T12:49:57.472718Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":484.0,
+    "mst_name":"Targett",
+    "news":"has joined Middlesbrough on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:49:12.555659Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":376.0,
+    "mst_name":"Gomez",
+    "news":"Knock - 50% chance of playing",
+    "news_added":"2026-01-25T00:30:09.079910Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":50.0
+  },
+  {
+    "mst_id":408.0,
+    "mst_name":"R\u00faben",
+    "news":"Hamstring injury - 50% chance of playing",
+    "news_added":"2026-01-04T21:30:12.685474Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":50.0
+  },
+  {
+    "mst_id":555.0,
+    "mst_name":"Browne",
+    "news":"has joined Middlesbrough on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:31:41.354124Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":205.0,
+    "mst_name":"Cullen",
+    "news":"Knee injury - Expected back 30 Sep",
+    "news_added":"2025-12-27T22:00:11.404644Z",
+    "mst_status":"i",
+    "mst_return":"2026-9-30",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":581.0,
+    "mst_name":"Maddison",
+    "news":"Maddison posted pictures of himself working on the pitch with the ball in his recovery from ACL surgery.",
+    "news_added":"2025-08-08T13:57:59.638052Z",
+    "mst_status":"i",
+    "mst_return":"2026-5-24",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":365.0,
+    "mst_name":"Nmecha",
+    "news":"Hamstring injury - 50% chance of playing",
+    "news_added":"2026-01-29T15:30:09.161752Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":50.0
+  },
+  {
+    "mst_id":451.0,
+    "mst_name":"Rashford",
+    "news":"Has joined Barcelona on loan for the rest of the season",
+    "news_added":"2025-07-24T10:12:59.455702Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":64.0,
+    "mst_name":"Watkins",
+    "news":"Hamstring injury - 75% chance of playing",
+    "news_added":"2026-01-29T23:00:09.533353Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":490.0,
+    "mst_name":"Joelinton",
+    "news":"Joelinton (groin) traveled to Barcelona to receive an injection in his groin and is set to miss several weeks, not months, coach Eddie Howe said in the press conference. \"He flew on to Barcelona after the game to get an injection in his groin. It was good news. The specialist feels he only needs one injection and that means his return could be quite quick and we're looking at weeks, not months. Unsure of the exact date yet, but it's positive news.\"",
+    "news_added":"2026-01-26T04:00:08.181421Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-14",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":647.0,
+    "mst_name":"Guedes",
+    "news":"Has joined Real Sociedad permanently.",
+    "news_added":"2025-08-11T01:21:19.226169Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":748.0,
+    "mst_name":"Dasilva",
+    "news":"Dasilva (knee) is progressing well in his recovery and hopes to return soon to a team environment, coach Keith Andrews said in the press conference. \"Josh is doing well. The road for Josh has been long and hard, and he's shown phenomenal character and resilience to get to this point. We're still hopeful that we'll see him out on the grass in a team environment sooner rather than later. He's working tirelessly with the medics and performance team to come back in the best possible place.\"",
+    "news_added":"2025-11-20T12:00:10.592439Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-28",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":201.0,
+    "mst_name":"Benson",
+    "news":"has joined Maccabi Haifa permanently.",
+    "news_added":"2025-09-22T21:45:34.872207Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":455.0,
+    "mst_name":"Mount",
+    "news":"Knock - 75% chance of playing",
+    "news_added":"2026-02-02T00:30:10.910423Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":186.0,
+    "mst_name":"Roberts",
+    "news":"Achilles injury - Unknown return date",
+    "news_added":"2025-08-22T12:30:06.986449Z",
+    "mst_status":"i",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":22.0,
+    "mst_name":"Merino",
+    "news":"Merino (foot) has suffered a bone injury and is set for surgery, according to his club. \"Mikel will have surgery in the coming days [on a bone injury in his right foot] and will then begin his recovery and rehabilitation programme Mikel is expected to be out of action for an extended period, with the aim of returning to full training before the end of the season.\"",
+    "news_added":"2026-02-02T11:30:08.998402Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-11",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":618.0,
+    "mst_name":"G.Rodriguez",
+    "news":"has joined Valencia on loan for the rest of the season.",
+    "news_added":"2026-01-27T16:46:42.877713Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":285.0,
+    "mst_name":"\u00c9douard",
+    "news":"has joined RC Lens permanently.",
+    "news_added":"2025-08-28T17:00:07.862344Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":353.0,
+    "mst_name":"James",
+    "news":"Lack of match fitness - 75% chance of playing",
+    "news_added":"2025-12-04T10:30:09.533717Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":85.0,
+    "mst_name":"Adams",
+    "news":"Knee injury - Expected back 21 Feb",
+    "news_added":"2025-12-15T23:30:10.848799Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-21",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":84.0,
+    "mst_name":"Tavernier",
+    "news":"Hamstring injury - Expected back 21 Feb",
+    "news_added":"2026-01-20T00:30:08.247682Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-21",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":432.0,
+    "mst_name":"Onana",
+    "news":"has joined Trabzonspor on loan for the rest of the season.",
+    "news_added":"2025-09-12T15:53:11.993916Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":585.0,
+    "mst_name":"Bentancur",
+    "news":"Bentancur underwent a hamstring surgery on Tuesday and will start his rehabilitation with the medical staff, the club announced.",
+    "news_added":"2026-01-08T18:30:11.365390Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-11",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":147.0,
+    "mst_name":"Estupi\u00f1an",
+    "news":"Has joined AC Milan permanently",
+    "news_added":"2025-07-24T10:14:09.955203Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":53.0,
+    "mst_name":"Malen",
+    "news":"has joined Roma on loan for the rest of the season.",
+    "news_added":"2026-01-16T15:17:04.828016Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":512.0,
+    "mst_name":"O.Richards",
+    "news":"has joined Rio Ave on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:23:02.662537Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":284.0,
+    "mst_name":"Nketiah",
+    "news":"Nketiah (strain) will miss Sunday's trip to Newcastle, with manager Oliver Glasner saying \"It looks like [Eddie Nketiah] is also not available. It looks like nobody will come back for this game\".",
+    "news_added":"2026-01-01T21:00:11.323499Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-8",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":488.0,
+    "mst_name":"Bruno G.",
+    "news":"Ankle injury - 75% chance of playing",
+    "news_added":"2026-02-01T11:30:09.463676Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":436.0,
+    "mst_name":"De Ligt",
+    "news":"Back injury - Expected back 10 Feb",
+    "news_added":"2025-12-05T00:30:07.892711Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-10",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":271.0,
+    "mst_name":"Kamada",
+    "news":"Hamstring injury - 50% chance of playing",
+    "news_added":"2025-12-15T01:30:08.425663Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":50.0
+  },
+  {
+    "mst_id":607.0,
+    "mst_name":"N.Aguerd",
+    "news":"has joined Marseille permanently.",
+    "news_added":"2025-09-02T12:20:05.254985Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":404.0,
+    "mst_name":"Akanji",
+    "news":"has joined Inter Milan on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:32:35.738667Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":332.0,
+    "mst_name":"Luki\u0107",
+    "news":"Hamstring injury - Expected back 22 Feb",
+    "news_added":"2026-01-17T18:30:08.687153Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-22",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":597.0,
+    "mst_name":"Richarlison",
+    "news":"Hamstring injury - Expected back 01 Mar",
+    "news_added":"2026-01-11T18:30:11.144475Z",
+    "mst_status":"i",
+    "mst_return":"2026-3-1",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":240.0,
+    "mst_name":"Nkunku",
+    "news":"has joined AC Milan permanently.",
+    "news_added":"2025-09-02T11:35:16.323578Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":616.0,
+    "mst_name":"\u00c1lvarez",
+    "news":"Has joined Fenerbah\u00e7e on loan for the rest of the season.",
+    "news_added":"2025-08-26T13:45:35.073930Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":377.0,
+    "mst_name":"Tsimikas",
+    "news":"has joined AS Roma on loan for the rest of the season.",
+    "news_added":"2025-09-22T09:16:54.545563Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":508.0,
+    "mst_name":"N.Williams",
+    "news":"Suspended until 11 Feb",
+    "news_added":"2026-02-02T00:30:11.039075Z",
+    "mst_status":"s",
+    "mst_return":"2026-2-11",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":370.0,
+    "mst_name":"Frimpong",
+    "news":"Frimpong (hamstring) is ruled out for several weeks but the injury isn't as bad as expected, coach Arne Slot said in the press conference. \"He will definitely not be in the squad tomorrow, so he is out for a few weeks. But [it's] not as bad as we thought he would be out. It's something positive from something not so positive.\"",
+    "news_added":"2026-01-29T00:00:09.393048Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-21",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":259.0,
+    "mst_name":"Sosa",
+    "news":"Muscle injury - 50% chance of playing",
+    "news_added":"2026-01-30T16:30:09.307389Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":50.0
+  },
+  {
+    "mst_id":499.0,
+    "mst_name":"Isak",
+    "news":"Isak (ankle) will remain out for a while due to injury since he is still not training on the pitch, coach Arne Slot said in the press conference. \"No, he's not even on the pitch yet. I think it's called a walker, he's just out of his walker, so that tells you that he's not on the pitch and not expecting him on the pitch today or tomorrow in terms of his recovery work. That's going to take a while before he's back, as we knew.\"",
+    "news_added":"2025-12-20T23:00:11.567903Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-11",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":164.0,
+    "mst_name":"O'Riley",
+    "news":"has joined Marseille on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:06:29.272628Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":219.0,
+    "mst_name":"Obafemi",
+    "news":"has joined Blackpool on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:51:25.555230Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":533.0,
+    "mst_name":"Alese",
+    "news":"has joined Portsmouth on loan for the rest of the season.",
+    "news_added":"2025-07-21T10:00:05.007315Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":132.0,
+    "mst_name":"Maghoma",
+    "news":"has joined Norwich City permanently.",
+    "news_added":"2026-01-27T16:47:33.569182Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":715.0,
+    "mst_name":"John",
+    "news":"Knee injury - Expected back 01 Jun",
+    "news_added":"2026-01-04T21:30:13.580158Z",
+    "mst_status":"i",
+    "mst_return":"2026-6-1",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":352.0,
+    "mst_name":"Harrison",
+    "news":"has joined ACF Fiorentina on loan for the rest of the season.",
+    "news_added":"2026-01-19T15:40:40.404385Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":569.0,
+    "mst_name":"Romero",
+    "news":"Illness - 75% chance of playing",
+    "news_added":"2026-02-02T00:30:11.079833Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":81.0,
+    "mst_name":"Kluivert",
+    "news":"Knee injury - Expected back 09 May",
+    "news_added":"2026-01-06T12:00:09.646560Z",
+    "mst_status":"i",
+    "mst_return":"2026-5-9",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":549.0,
+    "mst_name":"Neil",
+    "news":"has joined Ipswich Town on loan for the rest of the season.",
+    "news_added":"2026-01-27T16:48:20.506094Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":16.0,
+    "mst_name":"Saka",
+    "news":"Saka is out for Tuesday's match against Arsenal due to a muscular injury, according to Simon Collings of The Sun. According to manager Mikel Arteta, Saka \"is okay, we need to have more tests tomorrow to understand how he is. This game was too short, but let's hope that it's not too much [longer he's out].\"",
+    "news_added":"2026-01-31T20:30:08.947854Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-22",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":79.0,
+    "mst_name":"Mepham",
+    "news":"has joined West Bromwich Albion permanently.",
+    "news_added":"2025-09-02T12:54:34.562307Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":612.0,
+    "mst_name":"L.Paquet\u00e1",
+    "news":"has joined Flamengo permanently.",
+    "news_added":"2026-01-15T20:30:10.468843Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":504.0,
+    "mst_name":"Turner",
+    "news":"Has joined Lyon permanently.",
+    "news_added":"2025-08-11T01:18:09.881299Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":292.0,
+    "mst_name":"Mykolenko",
+    "news":"Knock - 75% chance of playing",
+    "news_added":"2026-01-31T20:30:09.340646Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":91.0,
+    "mst_name":"Sinisterra",
+    "news":"Has joined Cruzeiro on loan for the rest of the season.",
+    "news_added":"2025-08-26T13:43:19.913048Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":58.0,
+    "mst_name":"Kamara",
+    "news":"Knee injury - Expected back 01 Jun",
+    "news_added":"2026-01-11T18:30:10.173859Z",
+    "mst_status":"i",
+    "mst_return":"2026-6-1",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":112.0,
+    "mst_name":"Roerslev",
+    "news":"Has joined Southampton permanently.",
+    "news_added":"2025-08-22T14:17:15.662878Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":621.0,
+    "mst_name":"Irving",
+    "news":"has joined Sparta Prague permanently.",
+    "news_added":"2026-01-19T15:40:15.184233Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":528.0,
+    "mst_name":"Patterson",
+    "news":"has joined Millwall on loan for the rest of the season.",
+    "news_added":"2026-02-02T13:42:27.821481Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":150.0,
+    "mst_name":"Lamptey",
+    "news":"has joined Fiorentina permanently.",
+    "news_added":"2025-09-02T12:06:29.254107Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":534.0,
+    "mst_name":"Anderson",
+    "news":"has joined Barrow FC permanently.",
+    "news_added":"2026-01-19T15:39:02.016630Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":573.0,
+    "mst_name":"Spence",
+    "news":"Calf injury - 75% chance of playing",
+    "news_added":"2026-02-02T00:30:11.127690Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":589.0,
+    "mst_name":"Solomon",
+    "news":"has joined Fiorentina on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:17:42.731308Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":653.0,
+    "mst_name":"Hodge",
+    "news":"Signed by CD Tondela",
+    "news_added":"2025-07-23T18:50:21.231185Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":142.0,
+    "mst_name":"Scherpen",
+    "news":"Has joined Union SG permanently",
+    "news_added":"2025-07-25T14:53:26.961790Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":194.0,
+    "mst_name":"Jordan",
+    "news":"Beyer (hamstring) was spotted training a bit on grass in the last few weeks but is managed carefully and slowly by the staff, leaving him unavailable for the time being, coach Scott Parker said in the press conference, according to Burnley Express. \"Jordan as well, he's picked up a little bit over the last few weeks on the grass, but we just need to tread carefully with Jordan, just with the history of what he's been through, so that one may be a bit slower as well.\"",
+    "news_added":"2025-08-22T12:30:07.019474Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-21",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":520.0,
+    "mst_name":"O'Brien",
+    "news":"Has joined Wrexham permanently.",
+    "news_added":"2025-07-25T14:55:12.030109Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":338.0,
+    "mst_name":"Muniz",
+    "news":"Hamstring injury - 50% chance of playing",
+    "news_added":"2025-11-08T19:00:09.014811Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":50.0
+  },
+  {
+    "mst_id":383.0,
+    "mst_name":"Luis D\u00edaz",
+    "news":"Has joined Bayern Munch permanently.",
+    "news_added":"2025-07-30T14:05:01.491481Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":123.0,
+    "mst_name":"Carvalho",
+    "news":"Knee injury - Expected back 01 Jun",
+    "news_added":"2025-11-28T19:00:08.330112Z",
+    "mst_status":"i",
+    "mst_return":"2026-6-1",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":188.0,
+    "mst_name":"Delcroix",
+    "news":"has joined Lugano permanently.",
+    "news_added":"2026-01-07T10:23:30.095250Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":418.0,
+    "mst_name":"Doku",
+    "news":"Calf injury - Expected back 11 Feb",
+    "news_added":"2026-01-29T00:00:09.498877Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-11",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":355.0,
+    "mst_name":"Greenwood",
+    "news":"has joined Pogon Szczecin permanently.",
+    "news_added":"2025-09-02T12:00:32.393623Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":204.0,
+    "mst_name":"Churlinov",
+    "news":"has joined Kocaelispor\u00a0 permanently.",
+    "news_added":"2025-09-02T12:51:25.524903Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":93.0,
+    "mst_name":"H.Traor\u00e8",
+    "news":"has joined Marseille on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:54:34.582455Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":128.0,
+    "mst_name":"Onyeka",
+    "news":"has joined Coventry City on loan for the rest of the season.",
+    "news_added":"2026-02-02T23:18:34.199775Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":656.0,
+    "mst_name":"Kalajd\u017ei\u0107",
+    "news":"has joined LASK on loan for the rest of the season.",
+    "news_added":"2025-09-08T09:11:55.060395Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":709.0,
+    "mst_name":"Krej\u010d\u00ed",
+    "news":"Illness - 75% chance of playing",
+    "news_added":"2026-01-30T16:30:09.804886Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":648.0,
+    "mst_name":"Munetsi",
+    "news":"has joined Paris FC on loan for the rest of the season.",
+    "news_added":"2025-12-04T10:30:09.808170Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":357.0,
+    "mst_name":"Ramazani",
+    "news":"has joined Valencia on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:00:32.377624Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":344.0,
+    "mst_name":"Bijol",
+    "news":"Hamstring injury - Expected back 10 Feb",
+    "news_added":"2026-01-17T18:30:08.709278Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-10",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":590.0,
+    "mst_name":"Bryan",
+    "news":"has joined Girona permanently.",
+    "news_added":"2025-09-22T09:26:56.310666Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":78.0,
+    "mst_name":"J.Araujo",
+    "news":"has joined Celtic on loan for the rest of the season.",
+    "news_added":"2026-01-02T18:38:26.036808Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":29.0,
+    "mst_name":"Sambi",
+    "news":"has joined Hamburger permanently.",
+    "news_added":"2025-09-02T13:40:53.094922Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":214.0,
+    "mst_name":"Tr\u00e9sor",
+    "news":"Ankle injury - Unknown return date",
+    "news_added":"2026-01-06T18:00:09.700973Z",
+    "mst_status":"i",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":23.0,
+    "mst_name":"F\u00e1bio Vieira",
+    "news":"has joined Hamburger on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:38:06.128321Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":268.0,
+    "mst_name":"Doucour\u00e9",
+    "news":"Doucoure (knee) was able to participate in training with the group for a few minutes, according to manager Oliver Glasner. \"It was the first time - just for 20 minutes in the warm-up, in the rondo - that he was part of the group. He had his surgery on 28th January last year, so one year ago, and everybody was - because Cheicky is such a lovely guy - everybody was pleased for him.\"",
+    "news_added":"2025-07-21T10:00:04.882113Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-8",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":154.0,
+    "mst_name":"Cashin",
+    "news":"has joined Blackburn Rovers on loan for the rest of the season.",
+    "news_added":"2025-07-28T11:50:54.390347Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":395.0,
+    "mst_name":"Morton",
+    "news":"Has joined Lyon permanently.",
+    "news_added":"2025-08-11T01:13:11.403187Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":9.0,
+    "mst_name":"Kiwior",
+    "news":"has joined Porto on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:37:25.929594Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":564.0,
+    "mst_name":"Rusyn",
+    "news":"has joined Arka on loan for the rest of the season.",
+    "news_added":"2025-09-05T08:56:38.449926Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":482.0,
+    "mst_name":"Ashby",
+    "news":"has joined Bradford City on loan for the rest of the season.",
+    "news_added":"2026-01-15T12:50:45.925899Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":568.0,
+    "mst_name":"Pedro Porro",
+    "news":"Hamstring injury - Expected back 22 Feb",
+    "news_added":"2026-01-28T04:30:09.124754Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-22",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":477.0,
+    "mst_name":"Livramento",
+    "news":"Hamstring injury - Expected back 14 Mar",
+    "news_added":"2026-01-11T18:30:10.919432Z",
+    "mst_status":"i",
+    "mst_return":"2026-3-14",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":171.0,
+    "mst_name":"Sarmiento",
+    "news":"has joined Middlesbrough on loan for the rest of the season.",
+    "news_added":"2026-01-27T16:47:58.618791Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":638.0,
+    "mst_name":"Hoever",
+    "news":"has joined Sheffield United on loan for the rest of the season.",
+    "news_added":"2026-01-15T12:48:19.136376Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":68.0,
+    "mst_name":"Dennis",
+    "news":"has joined Leyton Orient on loan for the rest of the season.",
+    "news_added":"2026-01-02T17:00:09.176943Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":583.0,
+    "mst_name":"Kulusevski",
+    "news":"Kulusevski (knee) has received another injection and is set to miss at least another month of action, according to manager Thomas Frank.  \"The latest on Dejan. We know it is a complicated injury. If there is one person who can accelerate that (recovery) it is Dejan, who is a top pro and has a top mentality. The most important thing is to remove the pain in the knee. He had an injection to help that 10 days ago. We will know in 3-4 weeks if that has settled. And when it has settled, hopefully, he will be on the grass and from there, we will see what is happening.\"",
+    "news_added":"2025-07-21T10:00:05.109205Z",
+    "mst_status":"i",
+    "mst_return":"2026-3-15",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":397.0,
+    "mst_name":"Darwin",
+    "news":"Has joined Al-Hilal permanently.",
+    "news_added":"2025-08-11T11:06:59.061616Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":289.0,
+    "mst_name":"Tyrer",
+    "news":"has joined Cardiff City permanently.",
+    "news_added":"2026-01-19T15:34:17.511601Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":211.0,
+    "mst_name":"A.Ramsey",
+    "news":"has joined Leicester City on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:51:25.540742Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":655.0,
+    "mst_name":"F\u00e1bio Silva",
+    "news":"has joined Borussia Dortmund permanently.",
+    "news_added":"2025-09-02T13:11:07.488555Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":196.0,
+    "mst_name":"Sambo",
+    "news":"has joined Sparta Rotterdam on loan for the rest of the season.",
+    "news_added":"2025-08-19T13:36:42.853472Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":277.0,
+    "mst_name":"Ebiowei",
+    "news":"Has joined Blackpool permanently.",
+    "news_added":"2025-08-11T01:12:01.633662Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":133.0,
+    "mst_name":"Peart-Harris",
+    "news":"has joined Oxford United permanently.",
+    "news_added":"2026-01-15T12:49:06.966037Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":278.0,
+    "mst_name":"J.Rak-Sakyi",
+    "news":"has joined Stoke City on loan for the rest of the season.",
+    "news_added":"2026-02-02T23:17:59.310313Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":509.0,
+    "mst_name":"David Carmo",
+    "news":"has joined Real Oviedo on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:08:17.187888Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":556.0,
+    "mst_name":"Ekwah",
+    "news":"Has joined AS Saint-Etienne permanently.",
+    "news_added":"2025-08-14T14:03:00.702056Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":227.0,
+    "mst_name":"Colwill",
+    "news":"Colwill (knee) could return before the end of the campaign, according to manager Liam Rosenior. \"Yes, he could [be back before the end of the season,] but it's step by step, and I don't want to make promises that I can't keep. At the moment, Levi's is in a really good place. He's on the right track, but I don't want to put pressure on him. I spoke to Levi this morning. He's working so hard, and what a professional he is. It's been brilliant to see him back on the pitch running. He's itching to get back, but we need to make sure he feels 100 per cent perfect.\"",
+    "news_added":"2025-08-08T14:30:04.255160Z",
+    "mst_status":"i",
+    "mst_return":"2026-5-17",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":582.0,
+    "mst_name":"Kudus",
+    "news":"Thigh injury - Expected back 11 Apr",
+    "news_added":"2026-01-04T21:30:13.237860Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-11",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":57.0,
+    "mst_name":"Dobbin",
+    "news":"Has joined Preston North End on loan for the rest of the season.",
+    "news_added":"2025-08-26T13:44:19.058961Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":704.0,
+    "mst_name":"Onyango",
+    "news":"has joined Stockport County on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:26:54.674165Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":498.0,
+    "mst_name":"White",
+    "news":"has joined Bradford City on loan for the rest of the season.",
+    "news_added":"2026-01-15T12:50:45.940034Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":189.0,
+    "mst_name":"Dodgson",
+    "news":"Has joined Stockport County on loan for the rest of the season.",
+    "news_added":"2025-08-11T01:08:30.737822Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":609.0,
+    "mst_name":"Todibo",
+    "news":"Suspended until 21 Feb",
+    "news_added":"2026-01-31T21:30:09.288453Z",
+    "mst_status":"s",
+    "mst_return":"2026-2-21",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":35.0,
+    "mst_name":"Marschall",
+    "news":"Has joined Stevenage permanently.",
+    "news_added":"2025-07-30T14:08:21.698398Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":34.0,
+    "mst_name":"Gauci",
+    "news":"Has joined Port Vale on loan for the rest of the season.",
+    "news_added":"2025-08-12T07:40:37.843391Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":360.0,
+    "mst_name":"Gelhardt",
+    "news":"Has joined Hull City on loan for the rest of the season.",
+    "news_added":"2025-08-11T11:07:52.207439Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":3.0,
+    "mst_name":"Hein",
+    "news":"Has joined Werder Bremen on loan for the rest of the season.",
+    "news_added":"2025-08-26T13:44:02.357864Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":239.0,
+    "mst_name":"Gittens",
+    "news":"Muscle injury - 75% chance of playing",
+    "news_added":"2026-01-31T21:30:08.944567Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":10097.0,
+    "mst_name":"Harvey Davies",
+    "news":null,
+    "news_added":null,
+    "mst_status":null,
+    "mst_return":null,
+    "next_round_date":"2026-02-08",
+    "mst_next_round":null
+  },
+  {
+    "mst_id":696.0,
+    "mst_name":"Kalimuendo",
+    "news":"has joined Eintracht Frankfurt on loan for the rest of the season.",
+    "news_added":"2026-01-08T10:36:01.900811Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":540.0,
+    "mst_name":"Pembele",
+    "news":"has joined Le Havre AC on loan for the rest of the season.",
+    "news_added":"2026-01-07T10:24:08.787432Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":245.0,
+    "mst_name":"Mudryk",
+    "news":"Mudryk could be set to return to the pitch after clearing his suspension, according to Topskills Sports UK.",
+    "news_added":"2025-07-21T10:00:04.824210Z",
+    "mst_status":"s",
+    "mst_return":"2026-6-30",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":417.0,
+    "mst_name":"Cherki",
+    "news":"Knock - 75% chance of playing",
+    "news_added":"2026-02-02T00:30:10.807603Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":275.0,
+    "mst_name":"Ahamada",
+    "news":"has joined AJ Auxerre permanently.",
+    "news_added":"2026-01-07T20:34:29.281491Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":454.0,
+    "mst_name":"Antony",
+    "news":"has joined Real Betis permanently.",
+    "news_added":"2025-09-02T13:30:59.559397Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":173.0,
+    "mst_name":"Wieffer",
+    "news":"Wieffer (toe) remains out for Monday's clash with Bournemouth, Chris Nightingale of Sky Sports reports.",
+    "news_added":"2025-12-31T00:00:09.404007Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-8",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":51.0,
+    "mst_name":"Iling Jr",
+    "news":"has joined Pisa on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:15:59.838578Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":361.0,
+    "mst_name":"Gyabi",
+    "news":"has joined Hull City permanently.",
+    "news_added":"2025-09-02T13:38:58.066167Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":141.0,
+    "mst_name":"Rushworth",
+    "news":"Has joined Coventry City on loan for the rest of the season.",
+    "news_added":"2025-07-25T14:54:18.206318Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":161.0,
+    "mst_name":"Enciso",
+    "news":"has joined Strasbourg permanently.",
+    "news_added":"2025-08-10T18:00:05.470138Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":503.0,
+    "mst_name":"C.Miguel",
+    "news":"Has joined Palmeiras permanently.",
+    "news_added":"2025-08-20T13:32:34.630338Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":649.0,
+    "mst_name":"B.Traore",
+    "news":"Has joined FC Metz on loan for the rest of the season.",
+    "news_added":"2025-07-25T14:53:52.740212Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":403.0,
+    "mst_name":"Gvardiol",
+    "news":"Gvardiol will undergo surgery after it was confirmed that he suffered a tibial fracture during Sunday's match against Chelsea, the club announced Monday.",
+    "news_added":"2026-01-04T21:30:12.663651Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-11",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":536.0,
+    "mst_name":"Hjelde",
+    "news":"has joined Sheffield United on loan for the rest of the season.",
+    "news_added":"2026-02-02T23:16:50.069434Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":424.0,
+    "mst_name":"Bobb",
+    "news":"Bobb signed a five-and-a-half-year deal with Fulham, joining from Manchester City, his new club announced. \"I'm thrilled to welcome Oscar Bobb to Fulham! He is an exciting young player who is eager to come and play for the Club, as we aim to continue the team's positive momentum through the second half of the season and plan for a promising future,\" said Sporting Director Tony Khan.",
+    "news_added":"2025-12-18T01:30:09.837246Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-7",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":71.0,
+    "mst_name":"Zabarnyi",
+    "news":"Has joined Paris Saint-Germain permanently.",
+    "news_added":"2025-08-12T13:14:36.028170Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":602.0,
+    "mst_name":"Hegyi",
+    "news":"has joined MTK Budapest on loan for the rest of the season.",
+    "news_added":"2026-01-15T12:52:30.178628Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":179.0,
+    "mst_name":"Ferguson",
+    "news":"Has joined AS Roma on loan for the rest of the season",
+    "news_added":"2025-07-24T10:13:22.396984Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":208.0,
+    "mst_name":"Koleosho",
+    "news":"has joined Paris FC on loan for the rest of the season.",
+    "news_added":"2025-08-22T14:15:37.649817Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":10008.0,
+    "mst_name":"Caleb Wiley",
+    "news":null,
+    "news_added":null,
+    "mst_status":null,
+    "mst_return":null,
+    "next_round_date":"2026-02-07",
+    "mst_next_round":null
+  },
+  {
+    "mst_id":184.0,
+    "mst_name":"Green",
+    "news":"has joined FC Fredericia permanently.",
+    "news_added":"2025-09-02T12:51:25.510909Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":276.0,
+    "mst_name":"Devenny",
+    "news":"Ankle injury - Expected back 22 Feb",
+    "news_added":"2026-01-30T16:30:09.359129Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-22",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":530.0,
+    "mst_name":"Nna Noukeu",
+    "news":"has joined US Boulogne CO permanently.",
+    "news_added":"2026-01-19T15:39:01.997919Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":599.0,
+    "mst_name":"Scarlett",
+    "news":"has joined Hibernian on loan for the rest of the season.",
+    "news_added":"2026-02-02T13:40:54.997559Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":460.0,
+    "mst_name":"Collyer",
+    "news":"has joined Hull City on loan for the rest of the season.",
+    "news_added":"2026-02-02T13:41:44.377020Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":620.0,
+    "mst_name":"Earthy",
+    "news":"has joined Bristol City on loan for the rest of the season.",
+    "news_added":"2026-01-15T12:52:30.193987Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":247.0,
+    "mst_name":"D.Essugo",
+    "news":"Knock - Expected back 21 Feb",
+    "news_added":"2026-01-23T15:00:08.712004Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-21",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":312.0,
+    "mst_name":"Y.Chermiti",
+    "news":"has joined Rangers permanently.",
+    "news_added":"2025-09-02T12:26:54.689038Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":575.0,
+    "mst_name":"Van de Ven",
+    "news":"Knock - 75% chance of playing",
+    "news_added":"2026-01-28T04:30:09.145679Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":56.0,
+    "mst_name":"Barrenechea",
+    "news":"Season-long loan to Benfica",
+    "news_added":"2025-07-22T13:50:13.193555Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":394.0,
+    "mst_name":"McConnell",
+    "news":"has joined Ajax on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:23:24.738341Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":309.0,
+    "mst_name":"Metcalfe",
+    "news":"Has joined Bradford City permanently.",
+    "news_added":"2025-07-25T14:54:45.196473Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":537.0,
+    "mst_name":"Huggins",
+    "news":"has joined Wycombe Wanderers on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:34:00.250364Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":349.0,
+    "mst_name":"Schmidt",
+    "news":"has joined Werder Bremen on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:00:32.361624Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":375.0,
+    "mst_name":"Bradley",
+    "news":"Knee injury - Expected back 01 Jun",
+    "news_added":"2026-01-09T17:30:11.990256Z",
+    "mst_status":"i",
+    "mst_return":"2026-6-1",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":216.0,
+    "mst_name":"Amdouni",
+    "news":"Knee injury - Expected back 25 Apr",
+    "news_added":"2025-08-10T22:00:04.567659Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-25",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":558.0,
+    "mst_name":"Matete",
+    "news":"has joined MK Dons permanently.",
+    "news_added":"2026-01-15T12:51:24.526300Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":70.0,
+    "mst_name":"Paulsen",
+    "news":"Has joined Lechia Gdansk on loan for the rest of the season.",
+    "news_added":"2025-08-27T12:50:21.648936Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":524.0,
+    "mst_name":"Stamenic",
+    "news":"Has joined Swansea City permanently.",
+    "news_added":"2025-08-20T13:32:34.645399Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":391.0,
+    "mst_name":"Gannon-Doak",
+    "news":"Gannon Doak suffered a bad hamstring injury in Scotland's victory over Denmark that may require a surgery, coach Andoni Iraola said in the press conference. \"Today [Friday], we had a consult with a surgeon to see if it's something that has to go through surgery, or we could go more conservative. Ben will be out for some months, which is really bad news.\"",
+    "news_added":"2025-11-20T10:30:09.618152Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-28",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":308.0,
+    "mst_name":"Heath",
+    "news":"has joined Accrington on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:26:54.658601Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":650.0,
+    "mst_name":"Chirewa",
+    "news":"has joined Barnsley on loan for the rest of the season.",
+    "news_added":"2026-02-02T13:41:26.666899Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":465.0,
+    "mst_name":"H\u00f8jlund",
+    "news":"has joined Napoli on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:30:59.575548Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":25.0,
+    "mst_name":"Nwaneri",
+    "news":"has joined Marseille on loan for the rest of the season.",
+    "news_added":"2026-01-23T17:18:55.073277Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":118.0,
+    "mst_name":"Meghoma",
+    "news":"Has joined Rangers on loan for the rest of the season.",
+    "news_added":"2025-08-19T13:37:28.261506Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":592.0,
+    "mst_name":"Moore",
+    "news":"Has joined Rangers on loan for the rest of the season.",
+    "news_added":"2025-08-11T01:19:38.328172Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":398.0,
+    "mst_name":"Danns",
+    "news":"Hamstring injury - Unknown return date",
+    "news_added":"2025-10-17T01:00:10.583515Z",
+    "mst_status":"i",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":716.0,
+    "mst_name":"Savona",
+    "news":"Savona (knee) won't be involved in Sunday's contest against Crystal Palace, but there's no clarity on how long he'll be sidelined for, according to manager Sean Dyche. \"It's just a settling period for him now, over the next five to seven days,\" Dyche said. \"We will then make another decision on whether it is going to need an intervention or not - nothing too drastic but it will keep him out for a bit of time. We will know more in the next week.\"",
+    "news_added":"2026-01-29T23:00:10.460624Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-6",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":559.0,
+    "mst_name":"Triantis",
+    "news":"has joined Minnesota United permanently.",
+    "news_added":"2025-09-22T21:19:57.157510Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":103.0,
+    "mst_name":"Cox",
+    "news":"has joined Shrewsbury Town on loan for the rest of the season.",
+    "news_added":"2026-01-16T15:17:51.432656Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":415.0,
+    "mst_name":"Savinho",
+    "news":"Thigh injury - Expected back 21 Feb",
+    "news_added":"2026-01-02T00:30:11.916072Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-21",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":637.0,
+    "mst_name":"Toti",
+    "news":"Gomes (hamstring) has trained individually for the past week, according to manager Rob Edwards.",
+    "news_added":"2025-12-23T17:30:09.064024Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-7",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":518.0,
+    "mst_name":"Jota",
+    "news":"has joined Besiktas on loan for the rest of the season.",
+    "news_added":"2025-09-12T15:53:40.376767Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":120.0,
+    "mst_name":"Schade",
+    "news":"Suspended until 21 Feb",
+    "news_added":"2026-02-02T00:30:10.303430Z",
+    "mst_status":"s",
+    "mst_return":"2026-2-21",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":162.0,
+    "mst_name":"Gruda",
+    "news":"has joined Leipzig on loan for the rest of the season.",
+    "news_added":"2026-02-02T13:42:58.370286Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":177.0,
+    "mst_name":"Moran",
+    "news":"Has joined Los Angeles FC on loan for the rest of the season.",
+    "news_added":"2025-08-22T14:16:38.542849Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":169.0,
+    "mst_name":"Gomez",
+    "news":"Knock - 75% chance of playing",
+    "news_added":"2026-01-30T12:30:08.867866Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":75.0
+  },
+  {
+    "mst_id":244.0,
+    "mst_name":"Lavia",
+    "news":"Lavia (quadriceps) is close to a return, according to manager Liam Rosenior. \"Romeo is in a really good place, and we just have to make sure this last stage of his rehab is really, really good.\"",
+    "news_added":"2025-11-06T09:30:08.519036Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-13",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":538.0,
+    "mst_name":"Johnson",
+    "news":"has joined York City on loan for the rest of the season.",
+    "news_added":"2026-01-15T12:51:52.939823Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":334.0,
+    "mst_name":"Harris",
+    "news":"Has joined Oxford United on loan for the rest of the season.",
+    "news_added":"2025-07-28T11:48:41.571901Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":165.0,
+    "mst_name":"Sima",
+    "news":"has joined Lens permanently.",
+    "news_added":"2025-09-02T12:06:29.290672Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":251.0,
+    "mst_name":"N.Jackson",
+    "news":"has joined Bayern Munich on loan for the rest of the season.",
+    "news_added":"2025-09-02T11:35:16.339917Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":641.0,
+    "mst_name":"Pond",
+    "news":"has joined Crewe Alexandra on loan for the rest of the season.",
+    "news_added":"2026-01-07T20:20:32.671640Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":611.0,
+    "mst_name":"Casey",
+    "news":"has joined Leyton Orient on loan for the rest of the season.",
+    "news_added":"2025-08-11T01:20:17.436361Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":622.0,
+    "mst_name":"Orford",
+    "news":"has joined Stevenage on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:14:36.944075Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":542.0,
+    "mst_name":"Seelt",
+    "news":"has joined Wolfsburg on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:40:22.421351Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":197.0,
+    "mst_name":"Sonne",
+    "news":"has joined Sparta Prague on loan for the rest of the season.",
+    "news_added":"2026-02-02T13:40:27.470555Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":95.0,
+    "mst_name":"Silcott-Duberry",
+    "news":"has joined Olympiakos permanently.",
+    "news_added":"2025-09-22T21:51:49.994072Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":280.0,
+    "mst_name":"Ozoh",
+    "news":"Has joined Derby County on loan for the rest of the season.",
+    "news_added":"2025-07-30T14:07:45.618291Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":137.0,
+    "mst_name":"Morgan",
+    "news":"has joined Shrewsbury on loan for the rest of the season.",
+    "news_added":"2026-01-02T18:38:50.184481Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":543.0,
+    "mst_name":"Adingra",
+    "news":"has joined AS Monaco on loan for the rest of the season.",
+    "news_added":"2026-02-02T23:16:50.111189Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":393.0,
+    "mst_name":"Bajcetic",
+    "news":"Bajcetic (hamstring) suffered multiple setbacks of his injury and is currently not training with the team, coach Arne Slot said in the press conference. \"He's not training yet. So, he constantly gets close to the team and then he has a little setback and then comes close and has a little setback, so we're hoping and expecting to have him very soon, again. But at that moment of time he trains with us again, then he's been out for six, seven, eight months [with] no first-team training. So, as much as I'd like to have him back, we have to manage the expectations with him as well.\"",
+    "news_added":"2025-09-12T10:00:06.938334Z",
+    "mst_status":"i",
+    "mst_return":"2026-5-2",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":359.0,
+    "mst_name":"Crew",
+    "news":"Has joined Doncaster Rovers on loan for the rest of the season.",
+    "news_added":"2025-08-11T01:12:36.647868Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":279.0,
+    "mst_name":"M.Fran\u00e7a",
+    "news":"Has joined CR Vasco da Gama on loan for the rest of the season.",
+    "news_added":"2025-08-10T22:30:04.849181Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":75.0,
+    "mst_name":"Akinmboni",
+    "news":"Muscle injury - 25% chance of playing",
+    "news_added":"2025-11-07T15:00:08.469996Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":25.0
+  },
+  {
+    "mst_id":122.0,
+    "mst_name":"Milambo",
+    "news":"Knee injury - Expected back 01 Jun",
+    "news_added":"2025-10-16T08:00:09.362049Z",
+    "mst_status":"i",
+    "mst_return":"2026-6-1",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":576.0,
+    "mst_name":"Phillips",
+    "news":"Has joined Stoke City on loan for the rest of the season.",
+    "news_added":"2025-07-25T14:55:41.438809Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":172.0,
+    "mst_name":"Watson",
+    "news":"has joined Millwall on loan for the rest of the season.",
+    "news_added":"2026-02-02T13:42:58.389602Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":222.0,
+    "mst_name":"Penders",
+    "news":"Has joined RC Strasbourg on loan for the rest of the season.",
+    "news_added":"2025-07-28T11:48:06.001822Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":144.0,
+    "mst_name":"Coppola",
+    "news":"has joined Paris FC on loan for the rest of the season.",
+    "news_added":"2026-01-30T15:58:36.007916Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":176.0,
+    "mst_name":"Mazilu",
+    "news":"has joined Dinamo Bucharest permanently.",
+    "news_added":"2025-09-22T21:46:15.598017Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":94.0,
+    "mst_name":"Sadi",
+    "news":"has joined Novi Pazar on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:51:49.974133Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":563.0,
+    "mst_name":"Lu\u00eds Hemir",
+    "news":"has joined Moreirense on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:17:57.534387Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":213.0,
+    "mst_name":"Banel",
+    "news":"has joined Derby County on loan for the rest of the season.",
+    "news_added":"2026-01-30T16:34:44.759908Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":598.0,
+    "mst_name":"Lankshear",
+    "news":"has joined Oxford United on loan for the rest of the season.",
+    "news_added":"2025-08-11T01:18:54.659436Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":577.0,
+    "mst_name":"Takai",
+    "news":"has joined Borussia M\u00f6nchengladbach on loan for the rest of the season.",
+    "news_added":"2026-01-02T18:40:16.158468Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":464.0,
+    "mst_name":"Moorhouse",
+    "news":"has joined Leyton Orient on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:21:54.592776Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":639.0,
+    "mst_name":"Meupiyou",
+    "news":"On loan to FC Alverca",
+    "news_added":"2025-07-23T18:49:36.204721Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":496.0,
+    "mst_name":"Kuol",
+    "news":"has joined Sparta Prague permanently.",
+    "news_added":"2025-09-22T21:20:47.021681Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":364.0,
+    "mst_name":"Mateo Joseph",
+    "news":"Has joined RCD Mallorca on loan for the rest of the season.",
+    "news_added":"2025-08-11T11:07:32.622877Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":626.0,
+    "mst_name":"Marshall",
+    "news":"has joined VfL Bochum 1848 on loan for the rest of the season.",
+    "news_added":"2026-01-08T10:37:12.178122Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":701.0,
+    "mst_name":"Rowe",
+    "news":"has joined Annecy on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:15:59.825051Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":117.0,
+    "mst_name":"Ji-soo",
+    "news":"has joined Kaiserslautern on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:16:59.154227Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":586.0,
+    "mst_name":"Bergvall",
+    "news":"Bergvall (ankle) underwent surgery Friday and will be out for the foreseeable future.",
+    "news_added":"2026-01-21T21:30:07.663440Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-11",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":333.0,
+    "mst_name":"Godo",
+    "news":"has joined Strasbourg permanently.",
+    "news_added":"2025-09-02T13:30:29.210428Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":282.0,
+    "mst_name":"Umeh",
+    "news":"has joined Portsmouth permanently.",
+    "news_added":"2025-09-22T21:43:58.439788Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":468.0,
+    "mst_name":"Wheatley",
+    "news":"has joined Bradford City on loan for the rest of the season.",
+    "news_added":"2026-02-02T23:17:05.663726Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":425.0,
+    "mst_name":"Echeverri",
+    "news":"has joined Girona on loan for the rest of the season.",
+    "news_added":"2025-08-21T14:03:07.217793Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":80.0,
+    "mst_name":"Soler",
+    "news":"Hamstring injury - Expected back 01 Jun",
+    "news_added":"2026-01-22T01:30:06.830891Z",
+    "mst_status":"i",
+    "mst_return":"2026-6-1",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":212.0,
+    "mst_name":"Adewumi",
+    "news":"Has joined Cercle Brugge on loan for the rest of the season.",
+    "news_added":"2025-08-15T12:03:26.649417Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":65.0,
+    "mst_name":"Redmond",
+    "news":"has joined Huddersfield Town on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:26:36.441136Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":619.0,
+    "mst_name":"L.Guilherme",
+    "news":"has joined Sporting CP permanently.",
+    "news_added":"2026-01-07T10:24:45.612642Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":445.0,
+    "mst_name":"Amass",
+    "news":"has joined Norwich City on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:39:58.762783Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":46.0,
+    "mst_name":"Yasin",
+    "news":"has joined Anderlecht on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:15:59.805053Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":433.0,
+    "mst_name":"Harrison",
+    "news":"On loan to Shrewsbury Town",
+    "news_added":"2025-07-23T18:48:43.383466Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":14.0,
+    "mst_name":"Kacurri",
+    "news":"has joined Morecambe on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:14:30.857843Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":28.0,
+    "mst_name":"Kabia",
+    "news":"has joined Shrewsbury Town on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:24:41.013511Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":155.0,
+    "mst_name":"Slater",
+    "news":"has joined Harrogate Town on loan until January.",
+    "news_added":"2025-09-22T21:52:58.462370Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":657.0,
+    "mst_name":"Chiwome",
+    "news":"Chiwome will miss the rest of the 2024\/25 season after sustaining an ACL injury with the U21 squad Monday.",
+    "news_added":"2025-07-21T10:00:05.148649Z",
+    "mst_status":"i",
+    "mst_return":"2026-3-14",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":265.0,
+    "mst_name":"Kporha",
+    "news":"Back injury - Unknown return date",
+    "news_added":"2025-08-10T22:30:04.775923Z",
+    "mst_status":"i",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":690.0,
+    "mst_name":"Cardines",
+    "news":"Groin Injury - 25% chance of playing",
+    "news_added":"2025-12-17T17:00:11.927108Z",
+    "mst_status":"d",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":25.0
+  },
+  {
+    "mst_id":751.0,
+    "mst_name":"Akhamrich",
+    "news":"has joined Bristol Rovers on loan for the rest of the season.",
+    "news_added":"2026-01-26T15:57:58.935998Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":99.0,
+    "mst_name":"Adu-Adjei",
+    "news":"has joined HNK Rijeka permanently.",
+    "news_added":"2025-09-22T21:19:25.247985Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":134.0,
+    "mst_name":"Trevitt",
+    "news":"Has joined Wigan on loan for the rest of the season",
+    "news_added":"2025-08-11T01:07:54.335986Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":441.0,
+    "mst_name":"Dorgu",
+    "news":"Dorgu (hamstring) is set to miss weeks of action after a serious injury was confirmed, according to manager Michael Carrick. \"Pat is going to be out for a period of time. We're still working through how long that's going to be. He's had such a good couple of weeks and we weren't sure if it was cramp or something more serious, but it looks more serious. Whether it's a few weeks or more, we're going to have to wait and see. Unfortunately, it's something you have to work through in football.\"",
+    "news_added":"2026-01-26T04:00:08.082150Z",
+    "mst_status":"i",
+    "mst_return":"2026-4-11",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":741.0,
+    "mst_name":"Gray",
+    "news":"has joined Rotherham United on loan for the rest of the season.",
+    "news_added":"2026-01-16T15:18:53.201761Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-06",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":775.0,
+    "mst_name":"Tutierov",
+    "news":"has joined Exeter City on loan for the rest of the season.",
+    "news_added":"2026-01-16T15:18:30.390103Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":96.0,
+    "mst_name":"Winterburn",
+    "news":"has joined Barnet on loan for the rest of the season.",
+    "news_added":"2025-09-02T12:54:34.599400Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":42.0,
+    "mst_name":"A.Garc\u00eda",
+    "news":"Hamstring injury - Expected back 21 Feb",
+    "news_added":"2026-01-29T12:00:08.835746Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-21",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":269.0,
+    "mst_name":"Esse",
+    "news":"has joined Coventry City on loan for the rest of the season.",
+    "news_added":"2026-01-08T10:36:37.803156Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":180.0,
+    "mst_name":"Tzimas",
+    "news":"Knee injury - Expected back 01 Jun",
+    "news_added":"2025-12-04T09:00:09.057817Z",
+    "mst_status":"i",
+    "mst_return":"2026-6-1",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":578.0,
+    "mst_name":"Vuskovic",
+    "news":"has joined Hamburger SV on loan for the rest of the season.",
+    "news_added":"2025-09-02T13:17:42.706711Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":248.0,
+    "mst_name":"Paez",
+    "news":"has joined River Plate on loan for the rest of the season.",
+    "news_added":"2025-08-11T01:09:37.664358Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":174.0,
+    "mst_name":"Yalcouye",
+    "news":"Has joined Swansea City on loan for the rest of the season.",
+    "news_added":"2025-08-15T12:03:00.771795Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":115.0,
+    "mst_name":"Fredrick",
+    "news":"has joined Dender on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:16:59.169077Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":700.0,
+    "mst_name":"Dowman",
+    "news":"Dowman has signed a pre-contract agreement with Arsenal that will lead to him signing professional terms when he turns 17 in December, the club announced. Dowman remains out due to an ankle injury but is getting closer to return, coach Mikel Arteta said in the press conference. \"I think he's quite close. He's on the pitch now, he's doing well and hopefully we're going to be able to see him soon.\"",
+    "news_added":"2025-12-10T00:00:08.266774Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-14",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":412.0,
+    "mst_name":"Vitor Reis",
+    "news":"Has joined Girona on loan for the rest of the season.",
+    "news_added":"2025-08-11T01:23:23.836966Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":234.0,
+    "mst_name":"Anselmino",
+    "news":"has joined Strasbourg on loan for the rest of the season.",
+    "news_added":"2026-02-02T23:19:25.503392Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":594.0,
+    "mst_name":"Min-hyeok",
+    "news":"has joined Coventry City on loan for the rest of the season.",
+    "news_added":"2025-08-11T01:24:33.782871Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":127.0,
+    "mst_name":"Nunes",
+    "news":"has joined Swansea City on loan for the rest of the season.",
+    "news_added":"2026-01-23T16:43:23.380280Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":131.0,
+    "mst_name":"Konak",
+    "news":"has joined Oxford United on loan for the rest of the season.",
+    "news_added":"2026-01-16T15:17:51.447836Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":492.0,
+    "mst_name":"Anto\u00f1ito C.",
+    "news":"has joined Cadiz on loan for the rest of the season.",
+    "news_added":"2025-09-22T21:20:47.006379Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":645.0,
+    "mst_name":"Fer L\u00f3pez",
+    "news":"has joined Celta Vigo on loan for the rest of the season.",
+    "news_added":"2026-01-27T16:47:01.662371Z",
+    "mst_status":"u",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":692.0,
+    "mst_name":"Leoni",
+    "news":"Knee injury - Expected back 01 Sep",
+    "news_added":"2025-09-24T06:00:06.281394Z",
+    "mst_status":"i",
+    "mst_return":"2026-9-1",
+    "next_round_date":"2026-02-08",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":792.0,
+    "mst_name":"Alysson",
+    "news":"Knock - Unknown return date",
+    "news_added":"2026-01-16T16:30:10.231142Z",
+    "mst_status":"i",
+    "mst_return":"",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":800.0,
+    "mst_name":"Jocelin.T",
+    "news":"Lack of match fitness - Expected back 22 Feb",
+    "news_added":"2026-01-23T15:00:09.300389Z",
+    "mst_status":"i",
+    "mst_return":"2026-2-22",
+    "next_round_date":"2026-02-07",
+    "mst_next_round":0.0
+  },
+  {
+    "mst_id":10098.0,
+    "mst_name":"Luca Netz",
+    "news":null,
+    "news_added":null,
+    "mst_status":null,
+    "mst_return":null,
+    "next_round_date":"2026-02-06",
+    "mst_next_round":null
+  },
+  {
+    "mst_id":10099.0,
+    "mst_name":"Melker Ellborg",
+    "news":null,
+    "news_added":null,
+    "mst_status":null,
+    "mst_return":null,
+    "next_round_date":"2026-02-07",
+    "mst_next_round":null
+  },
+  {
+    "mst_id":10100.0,
+    "mst_name":"Nilson Angulo",
+    "news":null,
+    "news_added":null,
+    "mst_status":null,
+    "mst_return":null,
+    "next_round_date":"2026-02-07",
+    "mst_next_round":null
+  }
+]
