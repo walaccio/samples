@@ -1,0 +1,6311 @@
+{
+  "BHA": {
+    "players": {
+      "Matthew O'Riley": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 55
+          },
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          }
+        }
+      },
+      "Kaoru Mitoma": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          },
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          },
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          }
+        }
+      },
+      "Carlos Baleba": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          }
+        }
+      },
+      "Yankuba Minteh": {
+        "career": {
+          "on_pitch": 5,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          },
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          },
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Maxim De Cuyper": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          },
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Bart Verbruggen": {
+        "career": {
+          "on_pitch": 5,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          },
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          },
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Jan Paul van Hecke": {
+        "career": {
+          "on_pitch": 5,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          },
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          },
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Mats Wieffer": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          },
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          }
+        }
+      },
+      "Yasin Ayari": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          },
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Georginio Rutter": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          },
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          }
+        }
+      },
+      "Lewis Dunk": {
+        "career": {
+          "on_pitch": 5,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813376": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 55
+          },
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          },
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Ferdi Kadioglu": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Diego Gomez": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Jack Hinshelwood": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 77
+          }
+        }
+      },
+      "Danny Welbeck": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 3,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813390": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 77
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 32
+          }
+        }
+      },
+      "Brajan Gruda": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          }
+        }
+      },
+      "James Milner": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 67
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Joel Veltman": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813396": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813376": {
+        "match_date": "2025-08-16",
+        "opposition_team_abbrev": "FUL",
+        "venue": "H"
+      },
+      "4813390": {
+        "match_date": "2025-08-24",
+        "opposition_team_abbrev": "EVE",
+        "venue": "A"
+      },
+      "4813396": {
+        "match_date": "2025-08-31",
+        "opposition_team_abbrev": "MCI",
+        "venue": "H"
+      },
+      "4813564": {
+        "match_date": "2025-12-30",
+        "opposition_team_abbrev": "WHU",
+        "venue": "A"
+      }
+    }
+  },
+  "BRE": {
+    "players": {
+      "Rico Henry": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813377": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 81
+          }
+        }
+      },
+      "Jordan Henderson": {
+        "career": {
+          "on_pitch": 7,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813377": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 59
+          },
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 29
+          },
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 81
+          }
+        }
+      },
+      "Fabio Carvalho": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813377": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          }
+        }
+      },
+      "Nathan Collins": {
+        "career": {
+          "on_pitch": 7,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813377": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 59
+          },
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 29
+          },
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 81
+          }
+        }
+      },
+      "Yehor Yarmoliuk": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813377": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 59
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 29
+          }
+        }
+      },
+      "Sepp van den Berg": {
+        "career": {
+          "on_pitch": 7,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813377": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 59
+          },
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 29
+          },
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 81
+          }
+        }
+      },
+      "Kevin Schade": {
+        "career": {
+          "on_pitch": 6,
+          "taken_pk": 1,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813377": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 59
+          },
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 29
+          }
+        }
+      },
+      "Michael Kayode": {
+        "career": {
+          "on_pitch": 7,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813377": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 59
+          },
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 29
+          },
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 81
+          }
+        }
+      },
+      "Igor Thiago": {
+        "career": {
+          "on_pitch": 7,
+          "taken_pk": 6,
+          "pks_conv": 5
+        },
+        "matches": {
+          "4813377": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 78
+          },
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 59
+          },
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 60
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 78
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 29
+          },
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 81
+          }
+        }
+      },
+      "Keane Lewis-Potter": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 59
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Dango Ouattara": {
+        "career": {
+          "on_pitch": 5,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 59
+          },
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 29
+          },
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 81
+          }
+        }
+      },
+      "Mikkel Damsgaard": {
+        "career": {
+          "on_pitch": 5,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 59
+          },
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          },
+          "4813476": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 78
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 29
+          },
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 81
+          }
+        }
+      },
+      "Vitaly Janelt": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Kristoffer Vassbakk Ajer": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813458": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          },
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 29
+          }
+        }
+      },
+      "Aaron Hickey": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Mathias Jensen": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813487": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 81
+          }
+        }
+      },
+      "Reiss Nelson": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 81
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813377": {
+        "match_date": "2025-08-17",
+        "opposition_team_abbrev": "NFO",
+        "venue": "A"
+      },
+      "4813402": {
+        "match_date": "2025-08-30",
+        "opposition_team_abbrev": "SUN",
+        "venue": "A"
+      },
+      "4813458": {
+        "match_date": "2025-10-25",
+        "opposition_team_abbrev": "LIV",
+        "venue": "H"
+      },
+      "4813476": {
+        "match_date": "2025-11-09",
+        "opposition_team_abbrev": "NEW",
+        "venue": "H"
+      },
+      "4813487": {
+        "match_date": "2025-11-22",
+        "opposition_team_abbrev": "BHA",
+        "venue": "A"
+      },
+      "4813496": {
+        "match_date": "2025-11-29",
+        "opposition_team_abbrev": "BUR",
+        "venue": "H"
+      }
+    }
+  },
+  "LEE": {
+    "players": {
+      "Joe Rodon": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 68
+          },
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 73
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Anton Stach": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 73
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Jack Harrison": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          }
+        }
+      },
+      "Ao Tanaka": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 68
+          },
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 73
+          }
+        }
+      },
+      "Ilia Gruev": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 68
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Pascal Struijk": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 68
+          },
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 73
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Gabriel Gudmundsson": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 73
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Lukas Nmecha": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 2,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 84
+          },
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 68
+          }
+        }
+      },
+      "Brenden Aaronson": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 73
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Jayden Bogle": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813383": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 68
+          },
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 73
+          }
+        }
+      },
+      "Ethan Ampadu": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 68
+          },
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 73
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "James Justin": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 68
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Dominic Calvert-Lewin": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 2,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 68
+          },
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 73
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 45
+          }
+        }
+      },
+      "Jaka Bijol": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813500": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 68
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Wilfried Gnonto": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813520": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 73
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813383": {
+        "match_date": "2025-08-18",
+        "opposition_team_abbrev": "EVE",
+        "venue": "H"
+      },
+      "4813500": {
+        "match_date": "2025-11-29",
+        "opposition_team_abbrev": "MCI",
+        "venue": "A"
+      },
+      "4813520": {
+        "match_date": "2025-12-06",
+        "opposition_team_abbrev": "LIV",
+        "venue": "H"
+      },
+      "4813583": {
+        "match_date": "2026-01-07",
+        "opposition_team_abbrev": "NEW",
+        "venue": "A"
+      }
+    }
+  },
+  "ARS": {
+    "players": {
+      "Ethan Nwaneri": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813386": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Viktor Gyökeres": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 2,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813386": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 90
+          },
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813538": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 27
+          }
+        }
+      },
+      "Leandro Trossard": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813386": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813538": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 27
+          }
+        }
+      },
+      "Myles Lewis-Skelly": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813386": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "William Saliba": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813386": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813538": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 27
+          }
+        }
+      },
+      "Max Dowman": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813386": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Martin Zubimendi": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813386": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813538": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 27
+          }
+        }
+      },
+      "Declan Rice": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813386": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813538": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 27
+          }
+        }
+      },
+      "Gabriel": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813386": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          }
+        }
+      },
+      "Bukayo Saka": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 67
+          },
+          "4813538": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 27
+          }
+        }
+      },
+      "Jurrien Timber": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813538": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 27
+          }
+        }
+      },
+      "Riccardo Calafiori": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813538": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 27
+          }
+        }
+      },
+      "Eberechi Eze": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813436": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          }
+        }
+      },
+      "Martin Ødegaard": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813538": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 27
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813386": {
+        "match_date": "2025-08-23",
+        "opposition_team_abbrev": "LEE",
+        "venue": "H"
+      },
+      "4813436": {
+        "match_date": "2025-10-04",
+        "opposition_team_abbrev": "WHU",
+        "venue": "H"
+      },
+      "4813538": {
+        "match_date": "2025-12-20",
+        "opposition_team_abbrev": "EVE",
+        "venue": "A"
+      }
+    }
+  },
+  "MUN": {
+    "players": {
+      "Leny Yoro": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 38
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Patrick Dorgu": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 38
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Matthijs de Ligt": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 38
+          },
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Bruno Fernandes": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 4,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 38
+          },
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 90
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 76
+          },
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 82
+          }
+        }
+      },
+      "Amad": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 38
+          },
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Casemiro": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 38
+          }
+        }
+      },
+      "Mason Mount": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 38
+          },
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Luke Shaw": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 38
+          },
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Bryan Mbeumo": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 38
+          },
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Matheus Cunha": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813391": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 38
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Joshua Zirkzee": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Benjamin Sesko": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Noussair Mazraoui": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Kobbie Mainoo": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Diogo Dalot": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813400": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813426": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Lisandro Martinez": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813524": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813391": {
+        "match_date": "2025-08-24",
+        "opposition_team_abbrev": "FUL",
+        "venue": "A"
+      },
+      "4813400": {
+        "match_date": "2025-08-30",
+        "opposition_team_abbrev": "BUR",
+        "venue": "H"
+      },
+      "4813426": {
+        "match_date": "2025-09-27",
+        "opposition_team_abbrev": "BRE",
+        "venue": "A"
+      },
+      "4813524": {
+        "match_date": "2025-12-08",
+        "opposition_team_abbrev": "WOL",
+        "venue": "A"
+      }
+    }
+  },
+  "CRY": {
+    "players": {
+      "Will Hughes": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 21
+          }
+        }
+      },
+      "Marc Guehi": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 21
+          },
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 36
+          },
+          "4813540": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Chris Richards": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 21
+          },
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 36
+          },
+          "4813540": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Jean-Philippe Mateta": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 3,
+          "pks_conv": 3
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 21
+          },
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 90
+          },
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 36
+          }
+        }
+      },
+      "Tyrick Mitchell": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 21
+          },
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 36
+          },
+          "4813540": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Daichi Kamada": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 21
+          },
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 36
+          }
+        }
+      },
+      "Daniel Munoz": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 21
+          },
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 36
+          }
+        }
+      },
+      "Ismaila Sarr": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 21
+          },
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 36
+          }
+        }
+      },
+      "Adam Wharton": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 21
+          },
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 36
+          },
+          "4813540": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Maxence Lacroix": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813395": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 21
+          },
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 36
+          },
+          "4813540": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Edward Nketiah": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813447": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Yéremi Pino": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813498": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 36
+          }
+        }
+      },
+      "Justin Devenny": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813540": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 90
+          }
+        }
+      },
+      "Christantus Uche": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813540": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Jefferson Lerma": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813540": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813395": {
+        "match_date": "2025-08-31",
+        "opposition_team_abbrev": "AVL",
+        "venue": "A"
+      },
+      "4813447": {
+        "match_date": "2025-10-18",
+        "opposition_team_abbrev": "BOU",
+        "venue": "H"
+      },
+      "4813498": {
+        "match_date": "2025-11-30",
+        "opposition_team_abbrev": "MUN",
+        "venue": "H"
+      },
+      "4813540": {
+        "match_date": "2025-12-20",
+        "opposition_team_abbrev": "LEE",
+        "venue": "A"
+      }
+    }
+  },
+  "CHE": {
+    "players": {
+      "Tyrique George": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 56
+          }
+        }
+      },
+      "Malo Gusto": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 56
+          },
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 15
+          }
+        }
+      },
+      "Moisés Caicedo": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 56
+          },
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 15
+          },
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813599": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 64
+          }
+        }
+      },
+      "Pedro Neto": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 56
+          },
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813599": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 64
+          }
+        }
+      },
+      "Enzo Fernández": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 2,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 56
+          },
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 15
+          },
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813599": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 64
+          }
+        }
+      },
+      "Joao Pedro": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 56
+          },
+          "4813599": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 64
+          }
+        }
+      },
+      "Estevao": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 56
+          },
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 15
+          },
+          "4813599": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 64
+          }
+        }
+      },
+      "Tosin Adarabioyo": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 56
+          }
+        }
+      },
+      "Marc Cucurella": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 56
+          },
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813599": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 64
+          }
+        }
+      },
+      "Trevoh Chalobah": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813397": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 56
+          },
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 15
+          },
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813599": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 64
+          }
+        }
+      },
+      "Cole Palmer": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 2,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 15
+          },
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 76
+          }
+        }
+      },
+      "Wesley Fofana": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 15
+          },
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Josh Acheampong": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 15
+          }
+        }
+      },
+      "Liam Delap": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 15
+          },
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Alejandro Garnacho": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813558": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 15
+          }
+        }
+      },
+      "Reece James": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813599": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 64
+          }
+        }
+      },
+      "Andrey Santos": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813587": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          },
+          "4813599": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 64
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813397": {
+        "match_date": "2025-08-30",
+        "opposition_team_abbrev": "FUL",
+        "venue": "H"
+      },
+      "4813558": {
+        "match_date": "2025-12-30",
+        "opposition_team_abbrev": "BOU",
+        "venue": "H"
+      },
+      "4813587": {
+        "match_date": "2026-01-17",
+        "opposition_team_abbrev": "BRE",
+        "venue": "H"
+      },
+      "4813599": {
+        "match_date": "2026-01-25",
+        "opposition_team_abbrev": "CRY",
+        "venue": "A"
+      }
+    }
+  },
+  "WHU": {
+    "players": {
+      "Malick Diouf": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813401": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          }
+        }
+      },
+      "Callum Wilson": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813401": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Max Kilman": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813401": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Lucas Paquetá": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 2,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813401": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 88
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 45
+          }
+        }
+      },
+      "Crysencio Summerville": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813401": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813604": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 28
+          }
+        }
+      },
+      "Konstantinos Mavropanos": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813401": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          },
+          "4813604": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 28
+          }
+        }
+      },
+      "Jarrod Bowen": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813401": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          },
+          "4813604": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 28
+          }
+        }
+      },
+      "Tomas Soucek": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813401": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813604": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 28
+          }
+        }
+      },
+      "Kyle Walker-Peters": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813401": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Mateus Fernandes": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          },
+          "4813604": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 28
+          }
+        }
+      },
+      "Soungoutou Magassa": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Oliver Scarles": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          },
+          "4813604": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 28
+          }
+        }
+      },
+      "Freddie Potts": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813564": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Pablo": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813604": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 28
+          }
+        }
+      },
+      "Valentin Castellanos": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813604": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 28
+          }
+        }
+      },
+      "Jean-Clair Todibo": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813604": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 28
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813401": {
+        "match_date": "2025-08-31",
+        "opposition_team_abbrev": "NFO",
+        "venue": "A"
+      },
+      "4813564": {
+        "match_date": "2025-12-30",
+        "opposition_team_abbrev": "BHA",
+        "venue": "H"
+      },
+      "4813604": {
+        "match_date": "2026-01-24",
+        "opposition_team_abbrev": "SUN",
+        "venue": "H"
+      }
+    }
+  },
+  "SUN": {
+    "players": {
+      "Wilson Isidor": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          },
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 30
+          }
+        }
+      },
+      "Trai Hume": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          },
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          }
+        }
+      },
+      "Omar Alderete": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          },
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 30
+          },
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          }
+        }
+      },
+      "Noah Sadiki": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          },
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 30
+          }
+        }
+      },
+      "Enzo Le Fee": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 3,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 82
+          },
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 30
+          },
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 60
+          }
+        }
+      },
+      "Simon Adingra": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Reinildo": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          },
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 30
+          }
+        }
+      },
+      "Nordi Mukiele": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          },
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 30
+          },
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          }
+        }
+      },
+      "Habib Diarra": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          }
+        }
+      },
+      "Granit Xhaka": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813402": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 82
+          },
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 30
+          },
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          }
+        }
+      },
+      "Chemsdine Talbi": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 30
+          }
+        }
+      },
+      "Daniel Ballard": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 30
+          },
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          }
+        }
+      },
+      "Bertrand Traoré": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813502": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 30
+          }
+        }
+      },
+      "Lutsharel Geertruida": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          }
+        }
+      },
+      "Brian Brobbey": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          }
+        }
+      },
+      "Romaine Mundle": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          }
+        }
+      },
+      "Eliezer Mayenda": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813577": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 60
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813402": {
+        "match_date": "2025-08-30",
+        "opposition_team_abbrev": "BRE",
+        "venue": "H"
+      },
+      "4813502": {
+        "match_date": "2025-11-29",
+        "opposition_team_abbrev": "BOU",
+        "venue": "H"
+      },
+      "4813577": {
+        "match_date": "2026-01-07",
+        "opposition_team_abbrev": "BRE",
+        "venue": "A"
+      }
+    }
+  },
+  "BOU": {
+    "players": {
+      "Alex Scott": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Antoine Semenyo": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 2,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 61
+          },
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 67
+          }
+        }
+      },
+      "Marcos Senesi": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          },
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Adrien Truffert": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Evanilson": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          },
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Marcus Tavernier": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 2,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          },
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 69
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 32
+          }
+        }
+      },
+      "Veljko Milosavljevic": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          },
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          }
+        }
+      },
+      "Tyler Adams": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          },
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          }
+        }
+      },
+      "Djordje Petrovic": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          },
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "David Brooks": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          }
+        }
+      },
+      "James Hill": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813405": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 61
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Lewis Cook": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Eli Junior Kroupi": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Amine Adli": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Ryan Christie": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813475": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 67
+          },
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          }
+        }
+      },
+      "Alex Jimenez": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813485": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 69
+          },
+          "4813586": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813405": {
+        "match_date": "2025-09-13",
+        "opposition_team_abbrev": "BHA",
+        "venue": "H"
+      },
+      "4813475": {
+        "match_date": "2025-11-09",
+        "opposition_team_abbrev": "AVL",
+        "venue": "A"
+      },
+      "4813485": {
+        "match_date": "2025-11-22",
+        "opposition_team_abbrev": "WHU",
+        "venue": "H"
+      },
+      "4813586": {
+        "match_date": "2026-01-19",
+        "opposition_team_abbrev": "BHA",
+        "venue": "A"
+      }
+    }
+  },
+  "LIV": {
+    "players": {
+      "Conor Bradley": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Dominik Szoboszlai": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 1,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 32
+          }
+        }
+      },
+      "Cody Gakpo": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Virgil van Dijk": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Federico Chiesa": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Mohamed Salah": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 90
+          }
+        }
+      },
+      "Andrew Robertson": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Ryan Gravenberch": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Rio Ngumoha": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Jeremie Frimpong": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813408": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Florian Wirtz": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Milos Kerkez": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Curtis Jones": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Ibrahima Konaté": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      },
+      "Hugo Ekitike": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813589": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 32
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813408": {
+        "match_date": "2025-09-14",
+        "opposition_team_abbrev": "BUR",
+        "venue": "A"
+      },
+      "4813589": {
+        "match_date": "2026-01-17",
+        "opposition_team_abbrev": "BUR",
+        "venue": "H"
+      }
+    }
+  },
+  "EVE": {
+    "players": {
+      "Iliman Ndiaye": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 76
+          }
+        }
+      },
+      "Jake O'Brien": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Idrissa Gana Gueye": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Jack Grealish": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Vitaliy Mykolenko": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Carlos Alcaraz": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Beto": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "Tim Iroegbunam": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "James Tarkowski": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      },
+      "James Garner": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813440": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 76
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813440": {
+        "match_date": "2025-10-05",
+        "opposition_team_abbrev": "CRY",
+        "venue": "H"
+      }
+    }
+  },
+  "NEW": {
+    "players": {
+      "Daniel Burn": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 86
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Joelinton": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 86
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Sven Botman": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Sandro Tonali": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          }
+        }
+      },
+      "Nick Woltemade": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 84
+          },
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 86
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Bruno Guimaraes": {
+        "career": {
+          "on_pitch": 4,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 86
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 90
+          }
+        }
+      },
+      "Malick Thiaw": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 86
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Harvey Barnes": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Kieran Trippier": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          }
+        }
+      },
+      "Jacob Murphy": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813443": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 84
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Lewis Hall": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 86
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Valentino Livramento": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 86
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Anthony Elanga": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 86
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Anthony Gordon": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 2,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 86
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 45
+          }
+        }
+      },
+      "Lewis Miley": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813513": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 86
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Fabian Schär": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Joseph Willock": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Jacob Ramsey": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          },
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Yoane Wissa": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813583": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813443": {
+        "match_date": "2025-10-05",
+        "opposition_team_abbrev": "NFO",
+        "venue": "H"
+      },
+      "4813513": {
+        "match_date": "2025-12-02",
+        "opposition_team_abbrev": "TOT",
+        "venue": "H"
+      },
+      "4813522": {
+        "match_date": "2025-12-06",
+        "opposition_team_abbrev": "BUR",
+        "venue": "H"
+      },
+      "4813583": {
+        "match_date": "2026-01-07",
+        "opposition_team_abbrev": "LEE",
+        "venue": "H"
+      }
+    }
+  },
+  "WOL": {
+    "players": {
+      "Ki-Jana Hoever": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          }
+        }
+      },
+      "Hugo Bueno": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          },
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 31
+          }
+        }
+      },
+      "Santiago Bueno": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          },
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 31
+          }
+        }
+      },
+      "Marshall Munetsi": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          }
+        }
+      },
+      "Jhon Arias": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          },
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 31
+          }
+        }
+      },
+      "Jørgen Strand Larsen": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 2,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 42
+          },
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 88
+          }
+        }
+      },
+      "Rodrigo Gomes": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          }
+        }
+      },
+      "Jean-Ricner Bellegarde": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          }
+        }
+      },
+      "Andre": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          },
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          }
+        }
+      },
+      "Ladislav Krejci": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          },
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 31
+          }
+        }
+      },
+      "Sam Johnstone": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813464": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 42
+          }
+        }
+      },
+      "Hee-Chan Hwang": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 31
+          }
+        }
+      },
+      "Tolu Arokodare": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 31
+          }
+        }
+      },
+      "Matt Doherty": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          }
+        }
+      },
+      "Mateus Mane": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 31
+          }
+        }
+      },
+      "Joao Gomes": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          },
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 31
+          }
+        }
+      },
+      "David Møller Wolfe": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813544": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 88
+          }
+        }
+      },
+      "Yerson Mosquera": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 31
+          }
+        }
+      },
+      "Jackson Tchatchoua": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813574": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 31
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813464": {
+        "match_date": "2025-10-26",
+        "opposition_team_abbrev": "BUR",
+        "venue": "H"
+      },
+      "4813544": {
+        "match_date": "2025-12-20",
+        "opposition_team_abbrev": "BRE",
+        "venue": "H"
+      },
+      "4813574": {
+        "match_date": "2026-01-03",
+        "opposition_team_abbrev": "WHU",
+        "venue": "H"
+      }
+    }
+  },
+  "MCI": {
+    "players": {
+      "Matheus Nunes": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 13
+          },
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          },
+          "4813582": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 41
+          }
+        }
+      },
+      "Erling Haaland": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 3,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": false,
+            "minute": 13
+          },
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 89
+          },
+          "4813582": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 41
+          }
+        }
+      },
+      "Josko Gvardiol": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 13
+          },
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Rayan Cherki": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 13
+          },
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Phil Foden": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 13
+          },
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          },
+          "4813582": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 41
+          }
+        }
+      },
+      "Nico González": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 13
+          },
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          },
+          "4813582": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 41
+          }
+        }
+      },
+      "Jérémy Doku": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 13
+          },
+          "4813582": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 41
+          }
+        }
+      },
+      "Nico O'Reilly": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 13
+          },
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Bernardo Silva": {
+        "career": {
+          "on_pitch": 3,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 13
+          },
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          },
+          "4813582": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 41
+          }
+        }
+      },
+      "Ruben Dias": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813480": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 13
+          },
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Savinho": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813529": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Nathan Aké": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813582": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 41
+          }
+        }
+      },
+      "Tijjani Reijnders": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813582": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 41
+          }
+        }
+      },
+      "Max Alleyne": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813582": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 41
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813480": {
+        "match_date": "2025-11-09",
+        "opposition_team_abbrev": "LIV",
+        "venue": "H"
+      },
+      "4813529": {
+        "match_date": "2025-12-14",
+        "opposition_team_abbrev": "CRY",
+        "venue": "A"
+      },
+      "4813582": {
+        "match_date": "2026-01-07",
+        "opposition_team_abbrev": "BHA",
+        "venue": "H"
+      }
+    }
+  },
+  "NFO": {
+    "players": {
+      "Nicolo Savona": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Murillo": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Dan Ndoye": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Taiwo Awoniyi": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Neco Williams": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Morato": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Omari Hutchinson": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Nikola Milenkovic": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          },
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Elliot Anderson": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 90
+          },
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Ryan Yates": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813481": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Nicolás Dominguez": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Callum Hudson-Odoi": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Ola Aina": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Morgan Gibbs-White": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 89
+          }
+        }
+      },
+      "Igor Jesus": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      },
+      "Dilane Bakwa": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813584": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 89
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813481": {
+        "match_date": "2025-11-09",
+        "opposition_team_abbrev": "LEE",
+        "venue": "H"
+      },
+      "4813584": {
+        "match_date": "2026-01-06",
+        "opposition_team_abbrev": "WHU",
+        "venue": "A"
+      }
+    }
+  },
+  "BUR": {
+    "players": {
+      "Axel Tuanzebe": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 85
+          }
+        }
+      },
+      "Lesley Ugochukwu": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 85
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Jaidon Anthony": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 85
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Jacob Bruun Larsen": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 85
+          }
+        }
+      },
+      "Maxime Estève": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 85
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Armando Broja": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 85
+          }
+        }
+      },
+      "Zian Flemming": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 2,
+          "pks_conv": 2
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 85
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 90
+          }
+        }
+      },
+      "Quilindschy Hartman": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 85
+          }
+        }
+      },
+      "Josh Laurent": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 85
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Kyle Walker": {
+        "career": {
+          "on_pitch": 2,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813496": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 85
+          },
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Hjalmar Ekdal": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      },
+      "Josh Cullen": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813522": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 90
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813496": {
+        "match_date": "2025-11-29",
+        "opposition_team_abbrev": "BRE",
+        "venue": "A"
+      },
+      "4813522": {
+        "match_date": "2025-12-06",
+        "opposition_team_abbrev": "NEW",
+        "venue": "A"
+      }
+    }
+  },
+  "FUL": {
+    "players": {
+      "Raul Jiménez": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 1,
+          "pks_conv": 1
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": true,
+            "scored": true,
+            "minute": 45
+          }
+        }
+      },
+      "Kenny Tete": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Harry Wilson": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Joachim Andersen": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Emile Smith Rowe": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Sasa Lukic": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Jorge Cuenca": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Antonee Robinson": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Sander Berge": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      },
+      "Kevin": {
+        "career": {
+          "on_pitch": 1,
+          "taken_pk": 0,
+          "pks_conv": 0
+        },
+        "matches": {
+          "4813539": {
+            "on_pitch": true,
+            "took_pk": false,
+            "scored": null,
+            "minute": 45
+          }
+        }
+      }
+    },
+    "matches": {
+      "4813539": {
+        "match_date": "2025-12-22",
+        "opposition_team_abbrev": "NFO",
+        "venue": "H"
+      }
+    }
+  }
+}
