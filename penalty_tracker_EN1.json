@@ -2,6 +2,7 @@
   "BHA": {
     "players": {
       "Matthew O'Riley": {
+        "fpl_player_id": 164,
         "career": {
           "on_pitch": 2,
           "taken_pk": 1,
@@ -23,6 +24,7 @@
         }
       },
       "Kaoru Mitoma": {
+        "fpl_player_id": 157,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -50,6 +52,7 @@
         }
       },
       "Carlos Baleba": {
+        "fpl_player_id": 167,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -65,6 +68,7 @@
         }
       },
       "Yankuba Minteh": {
+        "fpl_player_id": 160,
         "career": {
           "on_pitch": 5,
           "taken_pk": 0,
@@ -98,6 +102,7 @@
         }
       },
       "Maxim De Cuyper": {
+        "fpl_player_id": 145,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -125,6 +130,7 @@
         }
       },
       "Bart Verbruggen": {
+        "fpl_player_id": 139,
         "career": {
           "on_pitch": 5,
           "taken_pk": 0,
@@ -158,6 +164,7 @@
         }
       },
       "Jan Paul van Hecke": {
+        "fpl_player_id": 151,
         "career": {
           "on_pitch": 5,
           "taken_pk": 0,
@@ -191,6 +198,7 @@
         }
       },
       "Mats Wieffer": {
+        "fpl_player_id": 173,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -212,6 +220,7 @@
         }
       },
       "Yasin Ayari": {
+        "fpl_player_id": 166,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -239,6 +248,7 @@
         }
       },
       "Georginio Rutter": {
+        "fpl_player_id": 158,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -260,6 +270,7 @@
         }
       },
       "Lewis Dunk": {
+        "fpl_player_id": 146,
         "career": {
           "on_pitch": 5,
           "taken_pk": 0,
@@ -293,6 +304,7 @@
         }
       },
       "Ferdi Kadioglu": {
+        "fpl_player_id": 148,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -314,6 +326,7 @@
         }
       },
       "Diego Gomez": {
+        "fpl_player_id": 169,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -335,6 +348,7 @@
         }
       },
       "Jack Hinshelwood": {
+        "fpl_player_id": 163,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -350,6 +364,7 @@
         }
       },
       "Danny Welbeck": {
+        "fpl_player_id": 178,
         "career": {
           "on_pitch": 3,
           "taken_pk": 3,
@@ -371,6 +386,7 @@
         }
       },
       "Brajan Gruda": {
+        "fpl_player_id": 162,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -386,6 +402,7 @@
         }
       },
       "James Milner": {
+        "fpl_player_id": 170,
         "career": {
           "on_pitch": 3,
           "taken_pk": 1,
@@ -407,6 +424,7 @@
         }
       },
       "Joel Veltman": {
+        "fpl_player_id": 152,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -454,6 +472,7 @@
   "BRE": {
     "players": {
       "Rico Henry": {
+        "fpl_player_id": 109,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -481,6 +500,7 @@
         }
       },
       "Jordan Henderson": {
+        "fpl_player_id": 124,
         "career": {
           "on_pitch": 7,
           "taken_pk": 0,
@@ -526,6 +546,7 @@
         }
       },
       "Fabio Carvalho": {
+        "fpl_player_id": 123,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -541,6 +562,7 @@
         }
       },
       "Nathan Collins": {
+        "fpl_player_id": 106,
         "career": {
           "on_pitch": 7,
           "taken_pk": 0,
@@ -586,6 +608,7 @@
         }
       },
       "Yehor Yarmoliuk": {
+        "fpl_player_id": 129,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -619,6 +642,7 @@
         }
       },
       "Sepp van den Berg": {
+        "fpl_player_id": 113,
         "career": {
           "on_pitch": 7,
           "taken_pk": 0,
@@ -664,6 +688,7 @@
         }
       },
       "Kevin Schade": {
+        "fpl_player_id": 120,
         "career": {
           "on_pitch": 6,
           "taken_pk": 1,
@@ -703,6 +728,7 @@
         }
       },
       "Michael Kayode": {
+        "fpl_player_id": 110,
         "career": {
           "on_pitch": 7,
           "taken_pk": 0,
@@ -748,6 +774,7 @@
         }
       },
       "Igor Thiago": {
+        "fpl_player_id": 136,
         "career": {
           "on_pitch": 7,
           "taken_pk": 6,
@@ -793,6 +820,7 @@
         }
       },
       "Keane Lewis-Potter": {
+        "fpl_player_id": 107,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -814,6 +842,7 @@
         }
       },
       "Dango Ouattara": {
+        "fpl_player_id": 83,
         "career": {
           "on_pitch": 5,
           "taken_pk": 0,
@@ -853,6 +882,7 @@
         }
       },
       "Mikkel Damsgaard": {
+        "fpl_player_id": 121,
         "career": {
           "on_pitch": 5,
           "taken_pk": 0,
@@ -892,6 +922,7 @@
         }
       },
       "Vitaly Janelt": {
+        "fpl_player_id": 125,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -913,6 +944,7 @@
         }
       },
       "Kristoffer Vassbakk Ajer": {
+        "fpl_player_id": 108,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -934,6 +966,7 @@
         }
       },
       "Aaron Hickey": {
+        "fpl_player_id": 116,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -949,6 +982,7 @@
         }
       },
       "Mathias Jensen": {
+        "fpl_player_id": 126,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -970,6 +1004,7 @@
         }
       },
       "Reiss Nelson": {
+        "fpl_player_id": 27,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -1021,6 +1056,7 @@
   "LEE": {
     "players": {
       "Joe Rodon": {
+        "fpl_player_id": 348,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -1054,6 +1090,7 @@
         }
       },
       "Anton Stach": {
+        "fpl_player_id": 660,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1081,6 +1118,7 @@
         }
       },
       "Jack Harrison": {
+        "fpl_player_id": 352,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -1096,6 +1134,7 @@
         }
       },
       "Ao Tanaka": {
+        "fpl_player_id": 358,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1123,6 +1162,7 @@
         }
       },
       "Ilia Gruev": {
+        "fpl_player_id": 356,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1150,6 +1190,7 @@
         }
       },
       "Pascal Struijk": {
+        "fpl_player_id": 343,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -1183,6 +1224,7 @@
         }
       },
       "Gabriel Gudmundsson": {
+        "fpl_player_id": 347,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1210,6 +1252,7 @@
         }
       },
       "Lukas Nmecha": {
+        "fpl_player_id": 365,
         "career": {
           "on_pitch": 2,
           "taken_pk": 2,
@@ -1231,6 +1274,7 @@
         }
       },
       "Brenden Aaronson": {
+        "fpl_player_id": 350,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1258,6 +1302,7 @@
         }
       },
       "Jayden Bogle": {
+        "fpl_player_id": 342,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1285,6 +1330,7 @@
         }
       },
       "Ethan Ampadu": {
+        "fpl_player_id": 354,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1312,6 +1358,7 @@
         }
       },
       "James Justin": {
+        "fpl_player_id": 706,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -1333,6 +1380,7 @@
         }
       },
       "Dominic Calvert-Lewin": {
+        "fpl_player_id": 691,
         "career": {
           "on_pitch": 3,
           "taken_pk": 2,
@@ -1360,6 +1408,7 @@
         }
       },
       "Jaka Bijol": {
+        "fpl_player_id": 344,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -1381,6 +1430,7 @@
         }
       },
       "Wilfried Gnonto": {
+        "fpl_player_id": 351,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -1422,6 +1472,7 @@
   "ARS": {
     "players": {
       "Ethan Nwaneri": {
+        "fpl_player_id": 25,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -1437,6 +1488,7 @@
         }
       },
       "Viktor Gyökeres": {
+        "fpl_player_id": 666,
         "career": {
           "on_pitch": 3,
           "taken_pk": 2,
@@ -1464,6 +1516,7 @@
         }
       },
       "Leandro Trossard": {
+        "fpl_player_id": 20,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1491,6 +1544,7 @@
         }
       },
       "Myles Lewis-Skelly": {
+        "fpl_player_id": 10,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -1506,6 +1560,7 @@
         }
       },
       "William Saliba": {
+        "fpl_player_id": 6,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1533,6 +1588,7 @@
         }
       },
       "Max Dowman": {
+        "fpl_player_id": 700,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -1548,6 +1604,7 @@
         }
       },
       "Martin Zubimendi": {
+        "fpl_player_id": 26,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1575,6 +1632,7 @@
         }
       },
       "Declan Rice": {
+        "fpl_player_id": 21,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1602,6 +1660,7 @@
         }
       },
       "Gabriel": {
+        "fpl_player_id": 5,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -1623,6 +1682,7 @@
         }
       },
       "Bukayo Saka": {
+        "fpl_player_id": 16,
         "career": {
           "on_pitch": 2,
           "taken_pk": 1,
@@ -1644,6 +1704,7 @@
         }
       },
       "Jurrien Timber": {
+        "fpl_player_id": 8,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -1665,6 +1726,7 @@
         }
       },
       "Riccardo Calafiori": {
+        "fpl_player_id": 7,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -1686,6 +1748,7 @@
         }
       },
       "Eberechi Eze": {
+        "fpl_player_id": 266,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -1701,6 +1764,7 @@
         }
       },
       "Martin Ødegaard": {
+        "fpl_player_id": 17,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -1737,6 +1801,7 @@
   "MUN": {
     "players": {
       "Leny Yoro": {
+        "fpl_player_id": 444,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1764,6 +1829,7 @@
         }
       },
       "Patrick Dorgu": {
+        "fpl_player_id": 441,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -1785,6 +1851,7 @@
         }
       },
       "Matthijs de Ligt": {
+        "fpl_player_id": 436,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1812,6 +1879,7 @@
         }
       },
       "Bruno Fernandes": {
+        "fpl_player_id": 449,
         "career": {
           "on_pitch": 4,
           "taken_pk": 4,
@@ -1845,6 +1913,7 @@
         }
       },
       "Amad": {
+        "fpl_player_id": 452,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -1872,6 +1941,7 @@
         }
       },
       "Casemiro": {
+        "fpl_player_id": 457,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -1887,6 +1957,7 @@
         }
       },
       "Mason Mount": {
+        "fpl_player_id": 455,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -1908,6 +1979,7 @@
         }
       },
       "Luke Shaw": {
+        "fpl_player_id": 443,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -1941,6 +2013,7 @@
         }
       },
       "Bryan Mbeumo": {
+        "fpl_player_id": 119,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -1974,6 +2047,7 @@
         }
       },
       "Matheus Cunha": {
+        "fpl_player_id": 450,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -2001,6 +2075,7 @@
         }
       },
       "Joshua Zirkzee": {
+        "fpl_player_id": 466,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2016,6 +2091,7 @@
         }
       },
       "Benjamin Sesko": {
+        "fpl_player_id": 681,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -2037,6 +2113,7 @@
         }
       },
       "Noussair Mazraoui": {
+        "fpl_player_id": 438,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2052,6 +2129,7 @@
         }
       },
       "Kobbie Mainoo": {
+        "fpl_player_id": 458,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -2079,6 +2157,7 @@
         }
       },
       "Diogo Dalot": {
+        "fpl_player_id": 440,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -2106,6 +2185,7 @@
         }
       },
       "Lisandro Martinez": {
+        "fpl_player_id": 437,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2147,6 +2227,7 @@
   "CRY": {
     "players": {
       "Will Hughes": {
+        "fpl_player_id": 270,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2162,6 +2243,7 @@
         }
       },
       "Marc Guehi": {
+        "fpl_player_id": 260,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -2195,6 +2277,7 @@
         }
       },
       "Chris Richards": {
+        "fpl_player_id": 261,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -2228,6 +2311,7 @@
         }
       },
       "Jean-Philippe Mateta": {
+        "fpl_player_id": 283,
         "career": {
           "on_pitch": 3,
           "taken_pk": 3,
@@ -2255,6 +2339,7 @@
         }
       },
       "Tyrick Mitchell": {
+        "fpl_player_id": 258,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -2288,6 +2373,7 @@
         }
       },
       "Daichi Kamada": {
+        "fpl_player_id": 271,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -2315,6 +2401,7 @@
         }
       },
       "Daniel Munoz": {
+        "fpl_player_id": 256,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -2342,6 +2429,7 @@
         }
       },
       "Ismaila Sarr": {
+        "fpl_player_id": 267,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -2369,6 +2457,7 @@
         }
       },
       "Adam Wharton": {
+        "fpl_player_id": 273,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -2402,6 +2491,7 @@
         }
       },
       "Maxence Lacroix": {
+        "fpl_player_id": 257,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -2435,6 +2525,7 @@
         }
       },
       "Edward Nketiah": {
+        "fpl_player_id": 284,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2450,6 +2541,7 @@
         }
       },
       "Yéremi Pino": {
+        "fpl_player_id": 712,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2465,6 +2557,7 @@
         }
       },
       "Justin Devenny": {
+        "fpl_player_id": 276,
         "career": {
           "on_pitch": 1,
           "taken_pk": 1,
@@ -2480,6 +2573,7 @@
         }
       },
       "Christantus Uche": {
+        "fpl_player_id": 732,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2495,6 +2589,7 @@
         }
       },
       "Jefferson Lerma": {
+        "fpl_player_id": 272,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2536,6 +2631,7 @@
   "CHE": {
     "players": {
       "Tyrique George": {
+        "fpl_player_id": 243,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2551,6 +2647,7 @@
         }
       },
       "Malo Gusto": {
+        "fpl_player_id": 228,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -2572,6 +2669,7 @@
         }
       },
       "Moisés Caicedo": {
+        "fpl_player_id": 241,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -2605,6 +2703,7 @@
         }
       },
       "Pedro Neto": {
+        "fpl_player_id": 236,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -2632,6 +2731,7 @@
         }
       },
       "Enzo Fernández": {
+        "fpl_player_id": 237,
         "career": {
           "on_pitch": 4,
           "taken_pk": 2,
@@ -2665,6 +2765,7 @@
         }
       },
       "Joao Pedro": {
+        "fpl_player_id": 249,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -2686,6 +2787,7 @@
         }
       },
       "Estevao": {
+        "fpl_player_id": 238,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -2713,6 +2815,7 @@
         }
       },
       "Tosin Adarabioyo": {
+        "fpl_player_id": 232,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2728,6 +2831,7 @@
         }
       },
       "Marc Cucurella": {
+        "fpl_player_id": 224,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -2755,6 +2859,7 @@
         }
       },
       "Trevoh Chalobah": {
+        "fpl_player_id": 226,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -2788,6 +2893,7 @@
         }
       },
       "Cole Palmer": {
+        "fpl_player_id": 235,
         "career": {
           "on_pitch": 2,
           "taken_pk": 2,
@@ -2809,6 +2915,7 @@
         }
       },
       "Wesley Fofana": {
+        "fpl_player_id": 230,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -2830,6 +2937,7 @@
         }
       },
       "Josh Acheampong": {
+        "fpl_player_id": 233,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2845,6 +2953,7 @@
         }
       },
       "Liam Delap": {
+        "fpl_player_id": 250,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -2866,6 +2975,7 @@
         }
       },
       "Alejandro Garnacho": {
+        "fpl_player_id": 453,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2881,6 +2991,7 @@
         }
       },
       "Reece James": {
+        "fpl_player_id": 225,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -2902,6 +3013,7 @@
         }
       },
       "Andrey Santos": {
+        "fpl_player_id": 246,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -2949,6 +3061,7 @@
   "WHU": {
     "players": {
       "Malick Diouf": {
+        "fpl_player_id": 603,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -2964,6 +3077,7 @@
         }
       },
       "Callum Wilson": {
+        "fpl_player_id": 671,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -2985,6 +3099,7 @@
         }
       },
       "Max Kilman": {
+        "fpl_player_id": 605,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3006,6 +3121,7 @@
         }
       },
       "Lucas Paquetá": {
+        "fpl_player_id": 612,
         "career": {
           "on_pitch": 2,
           "taken_pk": 2,
@@ -3027,6 +3143,7 @@
         }
       },
       "Crysencio Summerville": {
+        "fpl_player_id": 615,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3048,6 +3165,7 @@
         }
       },
       "Konstantinos Mavropanos": {
+        "fpl_player_id": 606,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -3075,6 +3193,7 @@
         }
       },
       "Jarrod Bowen": {
+        "fpl_player_id": 624,
         "career": {
           "on_pitch": 3,
           "taken_pk": 1,
@@ -3102,6 +3221,7 @@
         }
       },
       "Tomas Soucek": {
+        "fpl_player_id": 613,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3123,6 +3243,7 @@
         }
       },
       "Kyle Walker-Peters": {
+        "fpl_player_id": 659,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3144,6 +3265,7 @@
         }
       },
       "Mateus Fernandes": {
+        "fpl_player_id": 708,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3165,6 +3287,7 @@
         }
       },
       "Soungoutou Magassa": {
+        "fpl_player_id": 718,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3180,6 +3303,7 @@
         }
       },
       "Oliver Scarles": {
+        "fpl_player_id": 608,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3201,6 +3325,7 @@
         }
       },
       "Freddie Potts": {
+        "fpl_player_id": 623,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3216,6 +3341,7 @@
         }
       },
       "Pablo": {
+        "fpl_player_id": 785,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3231,6 +3357,7 @@
         }
       },
       "Valentin Castellanos": {
+        "fpl_player_id": 791,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3246,6 +3373,7 @@
         }
       },
       "Jean-Clair Todibo": {
+        "fpl_player_id": 609,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3282,6 +3410,7 @@
   "SUN": {
     "players": {
       "Wilson Isidor": {
+        "fpl_player_id": 560,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3303,6 +3432,7 @@
         }
       },
       "Trai Hume": {
+        "fpl_player_id": 532,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3324,6 +3454,7 @@
         }
       },
       "Omar Alderete": {
+        "fpl_player_id": 683,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -3351,6 +3482,7 @@
         }
       },
       "Noah Sadiki": {
+        "fpl_player_id": 552,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3372,6 +3504,7 @@
         }
       },
       "Enzo Le Fee": {
+        "fpl_player_id": 547,
         "career": {
           "on_pitch": 3,
           "taken_pk": 3,
@@ -3399,6 +3532,7 @@
         }
       },
       "Simon Adingra": {
+        "fpl_player_id": 543,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3414,6 +3548,7 @@
         }
       },
       "Reinildo": {
+        "fpl_player_id": 541,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3435,6 +3570,7 @@
         }
       },
       "Nordi Mukiele": {
+        "fpl_player_id": 694,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -3462,6 +3598,7 @@
         }
       },
       "Habib Diarra": {
+        "fpl_player_id": 544,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3477,6 +3614,7 @@
         }
       },
       "Granit Xhaka": {
+        "fpl_player_id": 668,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -3504,6 +3642,7 @@
         }
       },
       "Chemsdine Talbi": {
+        "fpl_player_id": 553,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3519,6 +3658,7 @@
         }
       },
       "Daniel Ballard": {
+        "fpl_player_id": 531,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3540,6 +3680,7 @@
         }
       },
       "Bertrand Traoré": {
+        "fpl_player_id": 735,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3555,6 +3696,7 @@
         }
       },
       "Lutsharel Geertruida": {
+        "fpl_player_id": 724,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3570,6 +3712,7 @@
         }
       },
       "Brian Brobbey": {
+        "fpl_player_id": 730,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3585,6 +3728,7 @@
         }
       },
       "Romaine Mundle": {
+        "fpl_player_id": 548,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3600,6 +3744,7 @@
         }
       },
       "Eliezer Mayenda": {
+        "fpl_player_id": 561,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3636,6 +3781,7 @@
   "BOU": {
     "players": {
       "Alex Scott": {
+        "fpl_player_id": 90,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3657,6 +3803,7 @@
         }
       },
       "Antoine Semenyo": {
+        "fpl_player_id": 82,
         "career": {
           "on_pitch": 2,
           "taken_pk": 2,
@@ -3678,6 +3825,7 @@
         }
       },
       "Marcos Senesi": {
+        "fpl_player_id": 72,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -3711,6 +3859,7 @@
         }
       },
       "Adrien Truffert": {
+        "fpl_player_id": 74,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -3738,6 +3887,7 @@
         }
       },
       "Evanilson": {
+        "fpl_player_id": 97,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -3771,6 +3921,7 @@
         }
       },
       "Marcus Tavernier": {
+        "fpl_player_id": 84,
         "career": {
           "on_pitch": 4,
           "taken_pk": 2,
@@ -3804,6 +3955,7 @@
         }
       },
       "Veljko Milosavljevic": {
+        "fpl_player_id": 721,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3825,6 +3977,7 @@
         }
       },
       "Tyler Adams": {
+        "fpl_player_id": 85,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -3852,6 +4005,7 @@
         }
       },
       "Djordje Petrovic": {
+        "fpl_player_id": 67,
         "career": {
           "on_pitch": 4,
           "taken_pk": 0,
@@ -3885,6 +4039,7 @@
         }
       },
       "David Brooks": {
+        "fpl_player_id": 86,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -3900,6 +4055,7 @@
         }
       },
       "James Hill": {
+        "fpl_player_id": 77,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -3921,6 +4077,7 @@
         }
       },
       "Lewis Cook": {
+        "fpl_player_id": 88,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -3948,6 +4105,7 @@
         }
       },
       "Eli Junior Kroupi": {
+        "fpl_player_id": 100,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -3975,6 +4133,7 @@
         }
       },
       "Amine Adli": {
+        "fpl_player_id": 697,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -4002,6 +4161,7 @@
         }
       },
       "Ryan Christie": {
+        "fpl_player_id": 87,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4023,6 +4183,7 @@
         }
       },
       "Alex Jimenez": {
+        "fpl_player_id": 713,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4070,6 +4231,7 @@
   "LIV": {
     "players": {
       "Conor Bradley": {
+        "fpl_player_id": 375,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4085,6 +4247,7 @@
         }
       },
       "Dominik Szoboszlai": {
+        "fpl_player_id": 387,
         "career": {
           "on_pitch": 2,
           "taken_pk": 1,
@@ -4106,6 +4269,7 @@
         }
       },
       "Cody Gakpo": {
+        "fpl_player_id": 384,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4127,6 +4291,7 @@
         }
       },
       "Virgil van Dijk": {
+        "fpl_player_id": 373,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4148,6 +4313,7 @@
         }
       },
       "Federico Chiesa": {
+        "fpl_player_id": 385,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4163,6 +4329,7 @@
         }
       },
       "Mohamed Salah": {
+        "fpl_player_id": 381,
         "career": {
           "on_pitch": 1,
           "taken_pk": 1,
@@ -4178,6 +4345,7 @@
         }
       },
       "Andrew Robertson": {
+        "fpl_player_id": 372,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4193,6 +4361,7 @@
         }
       },
       "Ryan Gravenberch": {
+        "fpl_player_id": 390,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4214,6 +4383,7 @@
         }
       },
       "Rio Ngumoha": {
+        "fpl_player_id": 686,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4229,6 +4399,7 @@
         }
       },
       "Jeremie Frimpong": {
+        "fpl_player_id": 370,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4250,6 +4421,7 @@
         }
       },
       "Florian Wirtz": {
+        "fpl_player_id": 382,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4265,6 +4437,7 @@
         }
       },
       "Milos Kerkez": {
+        "fpl_player_id": 371,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4280,6 +4453,7 @@
         }
       },
       "Curtis Jones": {
+        "fpl_player_id": 388,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4295,6 +4469,7 @@
         }
       },
       "Ibrahima Konaté": {
+        "fpl_player_id": 374,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4310,6 +4485,7 @@
         }
       },
       "Hugo Ekitike": {
+        "fpl_player_id": 661,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4341,6 +4517,7 @@
   "EVE": {
     "players": {
       "Iliman Ndiaye": {
+        "fpl_player_id": 299,
         "career": {
           "on_pitch": 1,
           "taken_pk": 1,
@@ -4356,6 +4533,7 @@
         }
       },
       "Jake O'Brien": {
+        "fpl_player_id": 293,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4371,6 +4549,7 @@
         }
       },
       "Idrissa Gana Gueye": {
+        "fpl_player_id": 302,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4386,6 +4565,7 @@
         }
       },
       "Jack Grealish": {
+        "fpl_player_id": 419,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4401,6 +4581,7 @@
         }
       },
       "Vitaliy Mykolenko": {
+        "fpl_player_id": 292,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4416,6 +4597,7 @@
         }
       },
       "Carlos Alcaraz": {
+        "fpl_player_id": 301,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4431,6 +4613,7 @@
         }
       },
       "Beto": {
+        "fpl_player_id": 311,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4446,6 +4629,7 @@
         }
       },
       "Tim Iroegbunam": {
+        "fpl_player_id": 304,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4461,6 +4645,7 @@
         }
       },
       "James Tarkowski": {
+        "fpl_player_id": 291,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4476,6 +4661,7 @@
         }
       },
       "James Garner": {
+        "fpl_player_id": 303,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4502,6 +4688,7 @@
   "NEW": {
     "players": {
       "Daniel Burn": {
+        "fpl_player_id": 476,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -4529,6 +4716,7 @@
         }
       },
       "Joelinton": {
+        "fpl_player_id": 490,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -4556,6 +4744,7 @@
         }
       },
       "Sven Botman": {
+        "fpl_player_id": 475,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4577,6 +4766,7 @@
         }
       },
       "Sandro Tonali": {
+        "fpl_player_id": 491,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4592,6 +4782,7 @@
         }
       },
       "Nick Woltemade": {
+        "fpl_player_id": 714,
         "career": {
           "on_pitch": 3,
           "taken_pk": 1,
@@ -4619,6 +4810,7 @@
         }
       },
       "Bruno Guimaraes": {
+        "fpl_player_id": 488,
         "career": {
           "on_pitch": 4,
           "taken_pk": 1,
@@ -4652,6 +4844,7 @@
         }
       },
       "Malick Thiaw": {
+        "fpl_player_id": 684,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -4679,6 +4872,7 @@
         }
       },
       "Harvey Barnes": {
+        "fpl_player_id": 487,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4700,6 +4894,7 @@
         }
       },
       "Kieran Trippier": {
+        "fpl_player_id": 478,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4715,6 +4910,7 @@
         }
       },
       "Jacob Murphy": {
+        "fpl_player_id": 489,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4736,6 +4932,7 @@
         }
       },
       "Lewis Hall": {
+        "fpl_player_id": 473,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4757,6 +4954,7 @@
         }
       },
       "Valentino Livramento": {
+        "fpl_player_id": 477,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -4784,6 +4982,7 @@
         }
       },
       "Anthony Elanga": {
+        "fpl_player_id": 486,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4805,6 +5004,7 @@
         }
       },
       "Anthony Gordon": {
+        "fpl_player_id": 485,
         "career": {
           "on_pitch": 2,
           "taken_pk": 2,
@@ -4826,6 +5026,7 @@
         }
       },
       "Lewis Miley": {
+        "fpl_player_id": 497,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4847,6 +5048,7 @@
         }
       },
       "Fabian Schär": {
+        "fpl_player_id": 474,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4862,6 +5064,7 @@
         }
       },
       "Joseph Willock": {
+        "fpl_player_id": 494,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4877,6 +5080,7 @@
         }
       },
       "Jacob Ramsey": {
+        "fpl_player_id": 52,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4898,6 +5102,7 @@
         }
       },
       "Yoane Wissa": {
+        "fpl_player_id": 135,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4939,6 +5144,7 @@
   "WOL": {
     "players": {
       "Ki-Jana Hoever": {
+        "fpl_player_id": 638,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -4954,6 +5160,7 @@
         }
       },
       "Hugo Bueno": {
+        "fpl_player_id": 633,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -4975,6 +5182,7 @@
         }
       },
       "Santiago Bueno": {
+        "fpl_player_id": 636,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -5002,6 +5210,7 @@
         }
       },
       "Marshall Munetsi": {
+        "fpl_player_id": 648,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5017,6 +5226,7 @@
         }
       },
       "Jhon Arias": {
+        "fpl_player_id": 663,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5038,6 +5248,7 @@
         }
       },
       "Jørgen Strand Larsen": {
+        "fpl_player_id": 654,
         "career": {
           "on_pitch": 2,
           "taken_pk": 2,
@@ -5059,6 +5270,7 @@
         }
       },
       "Rodrigo Gomes": {
+        "fpl_player_id": 635,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5074,6 +5286,7 @@
         }
       },
       "Jean-Ricner Bellegarde": {
+        "fpl_player_id": 644,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5089,6 +5302,7 @@
         }
       },
       "Andre": {
+        "fpl_player_id": 643,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5110,6 +5324,7 @@
         }
       },
       "Ladislav Krejci": {
+        "fpl_player_id": 709,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -5137,6 +5352,7 @@
         }
       },
       "Sam Johnstone": {
+        "fpl_player_id": 627,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5152,6 +5368,7 @@
         }
       },
       "Hee-Chan Hwang": {
+        "fpl_player_id": 642,
         "career": {
           "on_pitch": 2,
           "taken_pk": 1,
@@ -5173,6 +5390,7 @@
         }
       },
       "Tolu Arokodare": {
+        "fpl_player_id": 720,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5194,6 +5412,7 @@
         }
       },
       "Matt Doherty": {
+        "fpl_player_id": 632,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5209,6 +5428,7 @@
         }
       },
       "Mateus Mane": {
+        "fpl_player_id": 749,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5230,6 +5450,7 @@
         }
       },
       "Joao Gomes": {
+        "fpl_player_id": 646,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5251,6 +5472,7 @@
         }
       },
       "David Møller Wolfe": {
+        "fpl_player_id": 682,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5266,6 +5488,7 @@
         }
       },
       "Yerson Mosquera": {
+        "fpl_player_id": 634,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5281,6 +5504,7 @@
         }
       },
       "Jackson Tchatchoua": {
+        "fpl_player_id": 695,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5317,6 +5541,7 @@
   "MCI": {
     "players": {
       "Matheus Nunes": {
+        "fpl_player_id": 407,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -5344,6 +5569,7 @@
         }
       },
       "Erling Haaland": {
+        "fpl_player_id": 430,
         "career": {
           "on_pitch": 3,
           "taken_pk": 3,
@@ -5371,6 +5597,7 @@
         }
       },
       "Josko Gvardiol": {
+        "fpl_player_id": 403,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5392,6 +5619,7 @@
         }
       },
       "Rayan Cherki": {
+        "fpl_player_id": 417,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5413,6 +5641,7 @@
         }
       },
       "Phil Foden": {
+        "fpl_player_id": 414,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -5440,6 +5669,7 @@
         }
       },
       "Nico González": {
+        "fpl_player_id": 423,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -5467,6 +5697,7 @@
         }
       },
       "Jérémy Doku": {
+        "fpl_player_id": 418,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5488,6 +5719,7 @@
         }
       },
       "Nico O'Reilly": {
+        "fpl_player_id": 411,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5509,6 +5741,7 @@
         }
       },
       "Bernardo Silva": {
+        "fpl_player_id": 416,
         "career": {
           "on_pitch": 3,
           "taken_pk": 0,
@@ -5536,6 +5769,7 @@
         }
       },
       "Ruben Dias": {
+        "fpl_player_id": 408,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5557,6 +5791,7 @@
         }
       },
       "Savinho": {
+        "fpl_player_id": 415,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5572,6 +5807,7 @@
         }
       },
       "Nathan Aké": {
+        "fpl_player_id": 405,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5587,6 +5823,7 @@
         }
       },
       "Tijjani Reijnders": {
+        "fpl_player_id": 427,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5602,6 +5839,7 @@
         }
       },
       "Max Alleyne": {
+        "fpl_player_id": 794,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5638,6 +5876,7 @@
   "NFO": {
     "players": {
       "Nicolo Savona": {
+        "fpl_player_id": 716,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5653,6 +5892,7 @@
         }
       },
       "Murillo": {
+        "fpl_player_id": 506,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5674,6 +5914,7 @@
         }
       },
       "Dan Ndoye": {
+        "fpl_player_id": 669,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5689,6 +5930,7 @@
         }
       },
       "Taiwo Awoniyi": {
+        "fpl_player_id": 527,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5704,6 +5946,7 @@
         }
       },
       "Neco Williams": {
+        "fpl_player_id": 508,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5725,6 +5968,7 @@
         }
       },
       "Morato": {
+        "fpl_player_id": 511,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5740,6 +5984,7 @@
         }
       },
       "Omari Hutchinson": {
+        "fpl_player_id": 693,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5755,6 +6000,7 @@
         }
       },
       "Nikola Milenkovic": {
+        "fpl_player_id": 505,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5776,6 +6022,7 @@
         }
       },
       "Elliot Anderson": {
+        "fpl_player_id": 517,
         "career": {
           "on_pitch": 2,
           "taken_pk": 1,
@@ -5797,6 +6044,7 @@
         }
       },
       "Ryan Yates": {
+        "fpl_player_id": 522,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5812,6 +6060,7 @@
         }
       },
       "Nicolás Dominguez": {
+        "fpl_player_id": 519,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5827,6 +6076,7 @@
         }
       },
       "Callum Hudson-Odoi": {
+        "fpl_player_id": 516,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5842,6 +6092,7 @@
         }
       },
       "Ola Aina": {
+        "fpl_player_id": 507,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5857,6 +6108,7 @@
         }
       },
       "Morgan Gibbs-White": {
+        "fpl_player_id": 515,
         "career": {
           "on_pitch": 1,
           "taken_pk": 1,
@@ -5872,6 +6124,7 @@
         }
       },
       "Igor Jesus": {
+        "fpl_player_id": 526,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5887,6 +6140,7 @@
         }
       },
       "Dilane Bakwa": {
+        "fpl_player_id": 734,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5918,6 +6172,7 @@
   "BUR": {
     "players": {
       "Axel Tuanzebe": {
+        "fpl_player_id": 198,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5933,6 +6188,7 @@
         }
       },
       "Lesley Ugochukwu": {
+        "fpl_player_id": 676,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5954,6 +6210,7 @@
         }
       },
       "Jaidon Anthony": {
+        "fpl_player_id": 200,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -5975,6 +6232,7 @@
         }
       },
       "Jacob Bruun Larsen": {
+        "fpl_player_id": 202,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -5990,6 +6248,7 @@
         }
       },
       "Maxime Estève": {
+        "fpl_player_id": 191,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -6011,6 +6270,7 @@
         }
       },
       "Armando Broja": {
+        "fpl_player_id": 680,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6026,6 +6286,7 @@
         }
       },
       "Zian Flemming": {
+        "fpl_player_id": 215,
         "career": {
           "on_pitch": 2,
           "taken_pk": 2,
@@ -6047,6 +6308,7 @@
         }
       },
       "Quilindschy Hartman": {
+        "fpl_player_id": 192,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6062,6 +6324,7 @@
         }
       },
       "Josh Laurent": {
+        "fpl_player_id": 209,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -6083,6 +6346,7 @@
         }
       },
       "Kyle Walker": {
+        "fpl_player_id": 187,
         "career": {
           "on_pitch": 2,
           "taken_pk": 0,
@@ -6104,6 +6368,7 @@
         }
       },
       "Hjalmar Ekdal": {
+        "fpl_player_id": 190,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6119,6 +6384,7 @@
         }
       },
       "Josh Cullen": {
+        "fpl_player_id": 205,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6150,6 +6416,7 @@
   "FUL": {
     "players": {
       "Raul Jiménez": {
+        "fpl_player_id": 337,
         "career": {
           "on_pitch": 1,
           "taken_pk": 1,
@@ -6165,6 +6432,7 @@
         }
       },
       "Kenny Tete": {
+        "fpl_player_id": 322,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6180,6 +6448,7 @@
         }
       },
       "Harry Wilson": {
+        "fpl_player_id": 329,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6195,6 +6464,7 @@
         }
       },
       "Joachim Andersen": {
+        "fpl_player_id": 317,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6210,6 +6480,7 @@
         }
       },
       "Emile Smith Rowe": {
+        "fpl_player_id": 325,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6225,6 +6496,7 @@
         }
       },
       "Sasa Lukic": {
+        "fpl_player_id": 332,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6240,6 +6512,7 @@
         }
       },
       "Jorge Cuenca": {
+        "fpl_player_id": 321,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6255,6 +6528,7 @@
         }
       },
       "Antonee Robinson": {
+        "fpl_player_id": 316,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6270,6 +6544,7 @@
         }
       },
       "Sander Berge": {
+        "fpl_player_id": 330,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
@@ -6285,6 +6560,7 @@
         }
       },
       "Kevin": {
+        "fpl_player_id": 731,
         "career": {
           "on_pitch": 1,
           "taken_pk": 0,
