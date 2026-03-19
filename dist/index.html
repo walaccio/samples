@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Swoosh v1.8.4</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/reactflow@11.10.1/dist/style.min.css" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              gray: {
+                750: '#2d3748',
+                850: '#1a202c',
+                950: '#0d1117',
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      /* Custom Scrollbar */
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+      ::-webkit-scrollbar-track {
+        background-color: transparent; 
+      }
+      .dark ::-webkit-scrollbar-track {
+        background: #1f2937;
+      }
+      
+      ::-webkit-scrollbar-thumb {
+        background: #cbd5e1; 
+        border-radius: 4px;
+      }
+      .dark ::-webkit-scrollbar-thumb {
+        background: #4b5563; 
+      }
+      
+      ::-webkit-scrollbar-thumb:hover {
+        background: #94a3b8; 
+      }
+      .dark ::-webkit-scrollbar-thumb:hover {
+        background: #6b7280; 
+      }
+      
+      /* React Flow Customizations */
+      .react-flow__node {
+        border-radius: 4px;
+      }
+      .react-flow__handle {
+        width: 6px;
+        height: 6px;
+        background: #94a3b8;
+      }
+      .react-flow__edge-path {
+        stroke-width: 2px;
+      }
+      .react-flow__controls {
+        box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+        border: 1px solid #e2e8f0;
+      }
+      .dark .react-flow__controls {
+        border-color: #374151;
+      }
+
+      .react-flow__controls-button {
+        background-color: #ffffff;
+        border-bottom: 1px solid #e2e8f0;
+        fill: #64748b;
+      }
+      .dark .react-flow__controls-button {
+        background-color: #1f2937;
+        border-bottom: 1px solid #374151;
+        fill: #9ca3af;
+      }
+
+      .react-flow__controls-button:hover {
+        background-color: #f1f5f9;
+      }
+      .dark .react-flow__controls-button:hover {
+        background-color: #374151;
+      }
+    </style>
+
+<link rel="stylesheet" href="/index.css">
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@18.3.1?dev",
+    "react-dom": "https://esm.sh/react-dom@18.3.1?dev",
+    "react-dom/client": "https://esm.sh/react-dom@18.3.1/client?dev",
+    "react/jsx-runtime": "https://esm.sh/react@18.3.1/jsx-runtime?dev",
+    "reactflow": "https://esm.sh/reactflow@11.10.1?external=react,react-dom&dev",
+    "dagre": "https://esm.sh/dagre@0.8.5",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+    "react/": "https://esm.sh/react@^19.2.3/"
+  }
+}
+</script>
+  <script type="module" crossorigin src="/assets/index-BKOM62AR.js"></script>
+</head>
+  <body class="bg-gray-50 dark:bg-gray-950 text-gray-800 dark:text-gray-200 antialiased overflow-hidden transition-colors duration-200">
+    <div id="root" class="h-screen w-screen flex flex-col"></div>
+</body>
+</html>
